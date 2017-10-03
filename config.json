@@ -5,7 +5,7 @@
     "theme": "tvpage",
     "disablePathToLower": true,
     "enableRobotsTXT": true,
-    "galleryChannelIds": "",
+    "galleryChannelIds": "135123",
     "params": {
         "loginId": "3",
         "subfolder": "",
