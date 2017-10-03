@@ -1,0 +1,41 @@
+{
+    "title": "WHAT THEY RIDE: TOM WHITAKER",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292514",
+    "date_modified": "1418181334",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158797",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "WHAT-THEY-RIDE-TOM-WHITAKER",
+    "category": null,
+    "duration": 40,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "nubOFA9-7xs",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/nubOFA9-7xs\/maxresdefault.jpg",
+        "mediaDuration": "40",
+        "hdvFlag": 1,
+        "uploadDate": 1285384855,
+        "prettyDuration": "00:40"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "31",
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 149.44017
+}

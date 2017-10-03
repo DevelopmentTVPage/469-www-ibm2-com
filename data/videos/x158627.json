@@ -1,0 +1,41 @@
+{
+    "title": "FACE TIME WITH MITCH",
+    "description": "With an alias like Captain Fin, how could you not want to meet him? Press play for an introduction.",
+    "referenceId": null,
+    "date_created": "1398292497",
+    "date_modified": "1418181332",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158627",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "FACE-TIME-WITH-MITCH",
+    "category": null,
+    "duration": 56,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "OEi8D8U4mSU",
+        "hookText": "With an alias like Captain Fin, how could you not want to meet him? Press play for an introduction.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/OEi8D8U4mSU\/maxresdefault.jpg",
+        "mediaDuration": "56",
+        "hdvFlag": 1,
+        "uploadDate": 1319261362,
+        "prettyDuration": "00:56"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16",
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 379.51993
+}

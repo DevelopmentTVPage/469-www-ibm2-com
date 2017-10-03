@@ -1,0 +1,40 @@
+{
+    "title": "Vega Sport Product - Protein Bar",
+    "description": "A delicious, post-workout bar, packed with 15 grams of complete, plant-based protein, Vega Sport Protein Bar is formulated to strengthen and regenerate muscles.",
+    "referenceId": null,
+    "date_created": "1399316154",
+    "date_modified": "1418181403",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "165469",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Vega-Sport-Product-Protein-Bar",
+    "category": null,
+    "duration": 86,
+    "settings": [],
+    "asset": {
+        "author": "Vega",
+        "videoId": "JmpIH3mcyFQ",
+        "hookText": "A delicious, post-workout bar, packed with 15 grams of complete, plant-based protein, Vega Sport Protein Bar is formulated to strengthen and regenerate muscles.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/JmpIH3mcyFQ\/maxresdefault.jpg",
+        "mediaDuration": "86",
+        "hdvFlag": 1,
+        "uploadDate": 1379569865,
+        "prettyDuration": "01:26"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 246.2164
+}

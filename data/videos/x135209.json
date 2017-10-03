@@ -1,0 +1,40 @@
+{
+    "title": "Holiday shopping teaser",
+    "description": "Get ready to SHOP while you watch! A sneak peak of our Holiday Shopping videos!",
+    "referenceId": null,
+    "date_created": "1385969230",
+    "date_modified": "1418181124",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135209",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Holiday-shopping-teaser",
+    "category": null,
+    "duration": 48,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "OGk78Xv6w04",
+        "hookText": "Get ready to SHOP while you watch! A sneak peak of our Holiday Shopping videos!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/OGk78Xv6w04\/hqdefault.jpg",
+        "mediaDuration": "48",
+        "hdvFlag": 0,
+        "uploadDate": 1288995436,
+        "prettyDuration": "00:48"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 4641.155
+}

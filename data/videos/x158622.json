@@ -1,0 +1,40 @@
+{
+    "title": "WE BARBARIANS IN STUDIO: HEADSPACE",
+    "description": "We Barbarians stop by the Hurley Studio for a recording session.",
+    "referenceId": null,
+    "date_created": "1398292497",
+    "date_modified": "1418181332",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158622",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "WE-BARBARIANS-IN-STUDIO-HEADSPACE",
+    "category": null,
+    "duration": 212,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "1wdrx1QHiJc",
+        "hookText": "We Barbarians stop by the Hurley Studio for a recording session.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/1wdrx1QHiJc\/maxresdefault.jpg",
+        "mediaDuration": "212",
+        "hdvFlag": 0,
+        "uploadDate": 1320463188,
+        "prettyDuration": "03:32"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 142.24348
+}

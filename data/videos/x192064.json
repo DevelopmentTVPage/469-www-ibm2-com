@@ -1,0 +1,41 @@
+{
+    "title": "Extra Credits: Digital Resale",
+    "description": "Digital Resale from Extra Credits. Like this? Watch the latest episode of Extra Credits on Blip! http:\/\/blip.tv\/extracredits\/watch This week, we speculate on...",
+    "referenceId": null,
+    "date_created": "1406055190",
+    "date_modified": "1418181779",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "192064",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Extra-Credits-Digital-Resale",
+    "category": null,
+    "duration": 383,
+    "settings": [],
+    "asset": {
+        "author": "Extra Credits",
+        "videoId": "aKSFPRaJpzA",
+        "hookText": "Digital Resale from Extra Credits. Like this? Watch the latest episode of Extra Credits on Blip! http:\/\/blip.tv\/extracredits\/watch This week, we speculate on...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/aKSFPRaJpzA\/maxresdefault.jpg",
+        "mediaDuration": "383",
+        "hdvFlag": 1,
+        "uploadDate": 1345109510,
+        "prettyDuration": "06:23"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "7",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 263.90027
+}

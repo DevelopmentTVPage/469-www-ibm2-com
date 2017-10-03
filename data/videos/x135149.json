@@ -1,0 +1,41 @@
+{
+    "title": "Miami Rhapsody",
+    "description": "Watch our Summer 2013 Collection come to life in Miami, the city that inspired it.",
+    "referenceId": null,
+    "date_created": "1385969222",
+    "date_modified": "1418181124",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135149",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Miami-Rhapsody",
+    "category": null,
+    "duration": 47,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "eLzF-CTNBWI",
+        "hookText": "Watch our Summer 2013 Collection come to life in Miami, the city that inspired it.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/eLzF-CTNBWI\/maxresdefault.jpg",
+        "mediaDuration": "47",
+        "hdvFlag": 1,
+        "uploadDate": 1368770008,
+        "prettyDuration": "00:47"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "22"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 244.92464
+}

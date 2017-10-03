@@ -1,0 +1,41 @@
+{
+    "title": "U2 - One",
+    "description": "Live audio from Slane Castle, mixed with buffalo footage and clips from the MJ Blige version.",
+    "referenceId": "BgZ4ammawyI",
+    "date_created": "1486603622",
+    "date_modified": "1486603622",
+    "tags": null,
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "85318545",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "U2-One",
+    "category": null,
+    "duration": 303,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Wayne Carter",
+        "hdvFlag": 0,
+        "description": "Live audio from Slane Castle, mixed with buffalo footage and clips from the MJ Blige version.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/BgZ4ammawyI\/hqdefault.jpg",
+        "videoId": "BgZ4ammawyI",
+        "mediaDuration": 303,
+        "prettyDuration": "00:05:03"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 179.16025
+}

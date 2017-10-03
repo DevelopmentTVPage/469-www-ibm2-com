@@ -1,0 +1,41 @@
+{
+    "title": "SIG ZANE X HURLEY",
+    "description": "Sig Zane designs a special collection for Hurley. Video: PK.",
+    "referenceId": null,
+    "date_created": "1398292485",
+    "date_modified": "1418181330",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158505",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "SIG-ZANE-X-HURLEY",
+    "category": null,
+    "duration": 133,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "PWZim3RGz7k",
+        "hookText": "Sig Zane designs a special collection for Hurley. Video: PK.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/PWZim3RGz7k\/sddefault.jpg",
+        "mediaDuration": "133",
+        "hdvFlag": 0,
+        "uploadDate": 1355295439,
+        "prettyDuration": "02:13"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "4",
+        "21"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 137.09349
+}

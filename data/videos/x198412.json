@@ -1,0 +1,41 @@
+{
+    "title": "\"For The Record Preview\" | Glenn Beck Morning Meeting",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1408046563",
+    "date_modified": "1418181881",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198412",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "For-The-Record-Preview-Glenn-Beck-Morning-Meeting",
+    "category": null,
+    "duration": 178,
+    "settings": [],
+    "asset": {
+        "author": "TheBlaze",
+        "videoId": "CaLszxpVr1U",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CaLszxpVr1U\/maxresdefault.jpg",
+        "mediaDuration": "178",
+        "hdvFlag": 1,
+        "uploadDate": 1396498340,
+        "prettyDuration": "02:58"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "8",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 271.441
+}

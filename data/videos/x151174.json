@@ -1,0 +1,40 @@
+{
+    "title": "Adidas StreetFestPromo 720p 060611 02",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1396646915",
+    "date_modified": "1418181260",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "151174",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Adidas-StreetFestPromo-720p-060611-02",
+    "category": null,
+    "duration": 191,
+    "settings": [],
+    "asset": {
+        "author": "adidas",
+        "videoId": "0ms-cK3y-hw",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/0ms-cK3y-hw\/maxresdefault.jpg",
+        "mediaDuration": "191",
+        "hdvFlag": 1,
+        "uploadDate": 1307477001,
+        "prettyDuration": "03:11"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 17.377026
+}

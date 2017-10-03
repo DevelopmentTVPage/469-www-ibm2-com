@@ -1,0 +1,42 @@
+{
+    "title": "AP TOUR: VIDEO",
+    "description": "Behind-the-scenes interviews with Jona Weinhoffen of Bring Me The Horizon and Jimmy Stadt of the Polar Bear Club, plus footage from one of Bring Me The Horiz...",
+    "referenceId": null,
+    "date_created": "1398292512",
+    "date_modified": "1418181334",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158775",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "AP-TOUR-VIDEO",
+    "category": null,
+    "duration": 234,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "DLg8t3__tbg",
+        "hookText": "Behind-the-scenes interviews with Jona Weinhoffen of Bring Me The Horizon and Jimmy Stadt of the Polar Bear Club, plus footage from one of Bring Me The Horiz...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/DLg8t3__tbg\/maxresdefault.jpg",
+        "mediaDuration": "234",
+        "hdvFlag": 1,
+        "uploadDate": 1288836846,
+        "prettyDuration": "03:54"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "19",
+        "22"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 292.69833
+}

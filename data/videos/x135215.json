@@ -1,0 +1,42 @@
+{
+    "title": "backstagelive.MP4",
+    "description": "the wild scene backstage at the michael kors spring 2011 runway show!",
+    "referenceId": null,
+    "date_created": "1385969231",
+    "date_modified": "1418181124",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135215",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "backstagelive-MP4",
+    "category": null,
+    "duration": 38,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "l2PKUvz_zvA",
+        "hookText": "the wild scene backstage at the michael kors spring 2011 runway show!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/l2PKUvz_zvA\/maxresdefault.jpg",
+        "mediaDuration": "38",
+        "hdvFlag": 1,
+        "uploadDate": 1284582096,
+        "prettyDuration": "00:38"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "32",
+        "20",
+        "3"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 129.724
+}

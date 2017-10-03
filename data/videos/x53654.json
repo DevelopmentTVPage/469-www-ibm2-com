@@ -1,0 +1,41 @@
+{
+    "title": "Tesla Roadster Sport on windy road...",
+    "description": "great car",
+    "referenceId": null,
+    "date_created": "1370057161",
+    "date_modified": "1418180959",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "53654",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Tesla-Roadster-Sport-on-windy-road",
+    "category": null,
+    "duration": 134,
+    "settings": [],
+    "asset": {
+        "author": "TeslaMotors",
+        "videoId": "BA0iovYBFMg",
+        "hookText": "great car",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/BA0iovYBFMg\/mqdefault.jpg",
+        "mediaDuration": "134",
+        "hdvFlag": 1,
+        "uploadDate": 1287353841,
+        "prettyDuration": "02:14"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 26.61579
+}

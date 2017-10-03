@@ -1,0 +1,40 @@
+{
+    "title": "Tilly's Fall Photo Shoot",
+    "description": "Fall is now officially here. It's the end of Summer and beginning of all kinds of awesome stuff. Tag along with us on our most recent photo shoot and see how...",
+    "referenceId": null,
+    "date_created": "1397072632",
+    "date_modified": "1418181274",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "151989",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Tilly-s-Fall-Photo-Shoot",
+    "category": null,
+    "duration": 166,
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "videoId": "MWTMBPZDbkw",
+        "hookText": "Fall is now officially here. It's the end of Summer and beginning of all kinds of awesome stuff. Tag along with us on our most recent photo shoot and see how...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/MWTMBPZDbkw\/maxresdefault.jpg",
+        "mediaDuration": "166",
+        "hdvFlag": 1,
+        "uploadDate": 1344299135,
+        "prettyDuration": "02:46"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "13"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 7395.7715
+}

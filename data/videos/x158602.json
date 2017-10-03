@@ -1,0 +1,42 @@
+{
+    "title": "Katarina: Miss Teen Hurley",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292495",
+    "date_modified": "1418181332",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158602",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Katarina-Miss-Teen-Hurley",
+    "category": null,
+    "duration": 62,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "0FNHSb8owEM",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/0FNHSb8owEM\/sddefault.jpg",
+        "mediaDuration": "62",
+        "hdvFlag": 0,
+        "uploadDate": 1325825101,
+        "prettyDuration": "01:02"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "33",
+        "13",
+        "24"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 5.304687
+}

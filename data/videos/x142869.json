@@ -1,0 +1,40 @@
+{
+    "title": "#DKNYDRAFT",
+    "description": "WHERE FASHION MEETS FOOTBALL!\nVote for your draft pick on social media using #dknydraft.",
+    "referenceId": null,
+    "date_created": "1392586663",
+    "date_modified": "1418181160",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "142869",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "DKNYDRAFT",
+    "category": null,
+    "duration": 31,
+    "settings": [],
+    "asset": {
+        "author": "DKNY",
+        "hdvFlag": 1,
+        "mediaDuration": "31",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/qBGEgg7qEUU\/mqdefault.jpg",
+        "uploadDate": 1393534539,
+        "videoId": "qBGEgg7qEUU",
+        "hookText": "WHERE FASHION MEETS FOOTBALL!\nVote for your draft pick on social media using #dknydraft."
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 225.40599
+}

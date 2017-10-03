@@ -1,0 +1,41 @@
+{
+    "title": "FIN",
+    "description": "A film by Craig Stecyk III.",
+    "referenceId": null,
+    "date_created": "1398292493",
+    "date_modified": "1418181331",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158589",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "FIN",
+    "category": null,
+    "duration": 693,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "64uLbJQo2Wg",
+        "hookText": "A film by Craig Stecyk III.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/64uLbJQo2Wg\/maxresdefault.jpg",
+        "mediaDuration": "693",
+        "hdvFlag": 1,
+        "uploadDate": 1328843502,
+        "prettyDuration": "11:33"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9",
+        "8"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 135.48515
+}

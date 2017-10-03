@@ -1,0 +1,40 @@
+{
+    "title": "SPY 2013 HAPPY MONKEY",
+    "description": "Spy Optics and 100% Uncut Pure Happiness. Get'em now at Tillys.com!",
+    "referenceId": null,
+    "date_created": "1397072618",
+    "date_modified": "1418181272",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "151849",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "SPY-2013-HAPPY-MONKEY",
+    "category": null,
+    "duration": 16,
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "videoId": "ujLHpS3UvRo",
+        "hookText": "Spy Optics and 100% Uncut Pure Happiness. Get'em now at Tillys.com!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ujLHpS3UvRo\/maxresdefault.jpg",
+        "mediaDuration": "16",
+        "hdvFlag": 1,
+        "uploadDate": 1382503220,
+        "prettyDuration": "00:16"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 103.01256
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Tilly's Slingshot Man",
+    "description": "The man and the story about his slingshot. Learn how to use a slingshot.",
+    "referenceId": null,
+    "date_created": "1397072638",
+    "date_modified": "1418181275",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "152047",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Tilly-s-Slingshot-Man",
+    "category": null,
+    "duration": 22,
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "videoId": "Vw-8sNZZJ9o",
+        "hookText": "The man and the story about his slingshot. Learn how to use a slingshot.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Vw-8sNZZJ9o\/hqdefault.jpg",
+        "mediaDuration": "22",
+        "hdvFlag": 0,
+        "uploadDate": 1272085020,
+        "prettyDuration": "00:22"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "9",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 321.1995
+}

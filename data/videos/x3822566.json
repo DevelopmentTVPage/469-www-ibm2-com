@@ -1,0 +1,43 @@
+{
+    "title": "AG FALL 2014 CAMPAIGN",
+    "description": "Featuring Daria Werbowy and Mathias Lauridsen Art Direction: Berger & Wild Videographer: Jacques Naude.",
+    "referenceId": null,
+    "date_created": "1423674427",
+    "date_modified": "1423674427",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3822566",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "AG-FALL-2014-CAMPAIGN",
+    "category": null,
+    "duration": 80,
+    "settings": null,
+    "asset": {
+        "author": "AG Adriano Goldschmied",
+        "hdvFlag": 1,
+        "hookText": "Featuring Daria Werbowy and Mathias Lauridsen Art Direction: Berger & Wild Videographer: Jacques Naude.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/o-uFjwIP4HM\/maxresdefault.jpg",
+        "uploadDate": 1406895656,
+        "videoId": "o-uFjwIP4HM",
+        "mediaDuration": "80",
+        "prettyDuration": "01:20"
+    },
+    "transcripts": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": "12",
+    "conversion_score": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-25\"}}}",
+    "tvp_profiles": [
+        "12",
+        "14",
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 18.902916
+}

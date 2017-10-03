@@ -1,0 +1,42 @@
+{
+    "title": "WHAT THEY RIDE: MATT WILKINSON",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292515",
+    "date_modified": "1418181334",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158800",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "WHAT-THEY-RIDE-MATT-WILKINSON",
+    "category": null,
+    "duration": 33,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "p1izn_Z_h8s",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/p1izn_Z_h8s\/maxresdefault.jpg",
+        "mediaDuration": "33",
+        "hdvFlag": 1,
+        "uploadDate": 1285313041,
+        "prettyDuration": "00:33"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "31",
+        "11",
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 149.44017
+}

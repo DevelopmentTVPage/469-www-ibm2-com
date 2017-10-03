@@ -1,0 +1,41 @@
+{
+    "title": "ASP NEW FORMAT: PANEL DISCUSSION",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292516",
+    "date_modified": "1418181334",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158815",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "ASP-NEW-FORMAT-PANEL-DISCUSSION",
+    "category": null,
+    "duration": 552,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "C4IBU0qv9ac",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/C4IBU0qv9ac\/hqdefault.jpg",
+        "mediaDuration": "552",
+        "hdvFlag": 0,
+        "uploadDate": 1285308643,
+        "prettyDuration": "09:12"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 21.966469
+}

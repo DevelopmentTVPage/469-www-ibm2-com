@@ -1,0 +1,42 @@
+{
+    "title": "Fall 2013 Ad Campaign",
+    "description": "Inspired by the speed of New York, our Fall Collection takes on the city that never sleeps.",
+    "referenceId": null,
+    "date_created": "1385969221",
+    "date_modified": "1418181124",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135147",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Fall-2013-Ad-Campaign",
+    "category": null,
+    "duration": 57,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "ZZxSPpUqCtQ",
+        "hookText": "Inspired by the speed of New York, our Fall Collection takes on the city that never sleeps.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ZZxSPpUqCtQ\/maxresdefault.jpg",
+        "mediaDuration": "57",
+        "hdvFlag": 1,
+        "uploadDate": 1374031496,
+        "prettyDuration": "00:57"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "28",
+        "14",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 370.69196
+}

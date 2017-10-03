@@ -1,0 +1,41 @@
+{
+    "title": "It Gets Better: Michael Kors",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1385969230",
+    "date_modified": "1418181124",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135211",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "It-Gets-Better-Michael-Kors",
+    "category": null,
+    "duration": 63,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "zWq58Jbo48o",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/zWq58Jbo48o\/maxresdefault.jpg",
+        "mediaDuration": "63",
+        "hdvFlag": 1,
+        "uploadDate": 1287444318,
+        "prettyDuration": "01:03"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "4",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 166.76833
+}

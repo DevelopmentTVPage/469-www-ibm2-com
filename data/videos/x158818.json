@@ -1,0 +1,42 @@
+{
+    "title": "PHANTOM TRUE PERFORMANCE AWARD: KELLY SLATER",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292517",
+    "date_modified": "1418181334",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158818",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "PHANTOM-TRUE-PERFORMANCE-AWARD-KELLY-SLATER",
+    "category": null,
+    "duration": 6,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "dE9_2fI_ouI",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/dE9_2fI_ouI\/hqdefault.jpg",
+        "mediaDuration": "6",
+        "hdvFlag": 0,
+        "uploadDate": 1284865055,
+        "prettyDuration": "00:06"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "33",
+        "25",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 200.95705
+}

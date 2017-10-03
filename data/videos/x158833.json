@@ -1,0 +1,41 @@
+{
+    "title": "WHAT THEY RIDE: DUSTY PAYNE",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292518",
+    "date_modified": "1418181335",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158833",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "WHAT-THEY-RIDE-DUSTY-PAYNE",
+    "category": null,
+    "duration": 62,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "UXYytbeAG-o",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/UXYytbeAG-o\/maxresdefault.jpg",
+        "mediaDuration": "62",
+        "hdvFlag": 1,
+        "uploadDate": 1284624029,
+        "prettyDuration": "01:02"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "31",
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 149.44017
+}

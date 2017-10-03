@@ -1,0 +1,42 @@
+{
+    "title": "AWSI SUP Athlete of the Year 2013 Chuck Patterson",
+    "description": "Chuck Patterson Stand Up Paddle Athlete of the Year!",
+    "referenceId": null,
+    "date_created": "1408468639",
+    "date_modified": "1418181886",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198797",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "AWSI-SUP-Athlete-of-the-Year-2013-Chuck-Patterson",
+    "category": null,
+    "duration": 65,
+    "settings": [],
+    "asset": {
+        "author": "cwpsports",
+        "videoId": "9_lp78podjg",
+        "hookText": "Chuck Patterson Stand Up Paddle Athlete of the Year!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/9_lp78podjg\/maxresdefault.jpg",
+        "mediaDuration": "65",
+        "hdvFlag": 1,
+        "uploadDate": 1378261104,
+        "prettyDuration": "01:05"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "32",
+        "34",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 6212.362
+}

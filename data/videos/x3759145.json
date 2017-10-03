@@ -1,0 +1,41 @@
+{
+    "title": "Nautica Malibu Triathlon 2013",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1408555631",
+    "date_modified": "1418181902",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3759145",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Nautica-Malibu-Triathlon-2013",
+    "category": null,
+    "duration": 220,
+    "settings": [],
+    "asset": {
+        "author": "riverwayranchcamp",
+        "hdvFlag": 1,
+        "hookText": "",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/qr9ozhB3CT8\/sddefault.jpg",
+        "uploadDate": 1385064707,
+        "videoId": "qr9ozhB3CT8",
+        "mediaDuration": "220",
+        "prettyDuration": "03:40"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "3"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 12.417803
+}

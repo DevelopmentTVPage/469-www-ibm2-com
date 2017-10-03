@@ -1,0 +1,40 @@
+{
+    "title": "The Daily Briefing: 06.02.14",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1408046545",
+    "date_modified": "1418181878",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198226",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "The-Daily-Briefing-06-02-14",
+    "category": null,
+    "duration": 729,
+    "settings": [],
+    "asset": {
+        "author": "TheBlaze",
+        "videoId": "h6KOeybNmhU",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/h6KOeybNmhU\/maxresdefault.jpg",
+        "mediaDuration": "729",
+        "hdvFlag": 1,
+        "uploadDate": 1401764963,
+        "prettyDuration": "12:09"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 159.08752
+}

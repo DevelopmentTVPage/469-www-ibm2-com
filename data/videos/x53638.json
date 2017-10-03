@@ -1,0 +1,42 @@
+{
+    "title": "Driving With Elon Musk",
+    "description": "Forbes' Hannah Elliott takes a drive with Tesla Motors founder Elon Musk.",
+    "referenceId": null,
+    "date_created": "1370057160",
+    "date_modified": "1418180958",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "53638",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Driving-With-Elon-Musk",
+    "category": null,
+    "duration": 244,
+    "settings": [],
+    "asset": {
+        "author": "TeslaMotors",
+        "videoId": "VSNXhHTLLIk",
+        "hookText": "Forbes' Hannah Elliott takes a drive with Tesla Motors founder Elon Musk.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/VSNXhHTLLIk\/mqdefault.jpg",
+        "mediaDuration": "244",
+        "hdvFlag": 0,
+        "uploadDate": 1332778081,
+        "prettyDuration": "04:04"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "23",
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 100.52469
+}

@@ -1,0 +1,42 @@
+{
+    "title": "WAVE OF THE WEEK: OLIVER KURTZ",
+    "description": "The power and glory of Pipeline on full display. Ollie's just along for the ride. Video: Tom Aiello.",
+    "referenceId": null,
+    "date_created": "1398292505",
+    "date_modified": "1418181333",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158704",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "WAVE-OF-THE-WEEK-OLIVER-KURTZ",
+    "category": null,
+    "duration": 30,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "eCeSlT70nWU",
+        "hookText": "The power and glory of Pipeline on full display. Ollie's just along for the ride. Video: Tom Aiello.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/eCeSlT70nWU\/maxresdefault.jpg",
+        "mediaDuration": "30",
+        "hdvFlag": 1,
+        "uploadDate": 1302768175,
+        "prettyDuration": "00:30"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "9",
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 340.322
+}

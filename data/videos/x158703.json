@@ -1,0 +1,42 @@
+{
+    "title": "PHANTOM INNOVATION",
+    "description": "4D is here: The next dimension of innovation. Video: Francisco Magana.",
+    "referenceId": null,
+    "date_created": "1398292505",
+    "date_modified": "1418181333",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158703",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "PHANTOM-INNOVATION",
+    "category": null,
+    "duration": 24,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "oOQDLUhm6qY",
+        "hookText": "4D is here: The next dimension of innovation. Video: Francisco Magana.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/oOQDLUhm6qY\/maxresdefault.jpg",
+        "mediaDuration": "24",
+        "hdvFlag": 1,
+        "uploadDate": 1304039196,
+        "prettyDuration": "00:24"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "25",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 136.5985
+}

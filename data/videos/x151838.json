@@ -1,0 +1,42 @@
+{
+    "title": "Welcome to the world of the joggers",
+    "description": "Check out the video look book for everything joggers.",
+    "referenceId": null,
+    "date_created": "1397072617",
+    "date_modified": "1418181271",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "151838",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Welcome-to-the-world-of-the-joggers",
+    "category": null,
+    "duration": 38,
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "videoId": "0NubqgmW0jQ",
+        "hookText": "Check out the video look book for everything joggers.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/0NubqgmW0jQ\/maxresdefault.jpg",
+        "mediaDuration": "38",
+        "hdvFlag": 1,
+        "uploadDate": 1392094716,
+        "prettyDuration": "00:38"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "14",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 589.72125
+}

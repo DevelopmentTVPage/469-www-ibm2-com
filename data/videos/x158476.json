@@ -1,0 +1,40 @@
+{
+    "title": "#TOURNOTES: BELLS ROUND 1",
+    "description": "The Hurley team heads to Bells for the Rip Curl Pro.",
+    "referenceId": null,
+    "date_created": "1398292482",
+    "date_modified": "1418181330",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158476",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "TOURNOTES-BELLS-ROUND-1",
+    "category": null,
+    "duration": 215,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "vVDs5YdevvM",
+        "hookText": "The Hurley team heads to Bells for the Rip Curl Pro.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/vVDs5YdevvM\/sddefault.jpg",
+        "mediaDuration": "215",
+        "hdvFlag": 0,
+        "uploadDate": 1364629646,
+        "prettyDuration": "03:35"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 145.28563
+}

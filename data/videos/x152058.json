@@ -1,0 +1,40 @@
+{
+    "title": "Stampede of Elephants in Newport Beach",
+    "description": "Video footage of \"The Guy\" that saw a stampede of elephants in Newport Beach, CA.",
+    "referenceId": null,
+    "date_created": "1397072639",
+    "date_modified": "1418181275",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "152058",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Stampede-of-Elephants-in-Newport-Beach",
+    "category": null,
+    "duration": 107,
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "videoId": "VWJi6_C6yBw",
+        "hookText": "Video footage of \"The Guy\" that saw a stampede of elephants in Newport Beach, CA.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/VWJi6_C6yBw\/maxresdefault.jpg",
+        "mediaDuration": "107",
+        "hdvFlag": 1,
+        "uploadDate": 1271718530,
+        "prettyDuration": "01:47"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "22"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 277.09128
+}

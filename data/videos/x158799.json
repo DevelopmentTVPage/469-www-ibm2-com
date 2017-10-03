@@ -1,0 +1,41 @@
+{
+    "title": "WHAT THEY RIDE: MICHEL BOUREZ",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292515",
+    "date_modified": "1418181334",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158799",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "WHAT-THEY-RIDE-MICHEL-BOUREZ",
+    "category": null,
+    "duration": 52,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "Fi7OJ-WHxfc",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Fi7OJ-WHxfc\/maxresdefault.jpg",
+        "mediaDuration": "52",
+        "hdvFlag": 1,
+        "uploadDate": 1285313702,
+        "prettyDuration": "00:52"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "31",
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 149.44017
+}

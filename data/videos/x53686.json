@@ -1,0 +1,40 @@
+{
+    "title": "Tesla Roadster meetup #3",
+    "description": "At Green Mesquite",
+    "referenceId": null,
+    "date_created": "1370057164",
+    "date_modified": "1418180959",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "53686",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Tesla-Roadster-meetup-3",
+    "category": null,
+    "duration": 48,
+    "settings": [],
+    "asset": {
+        "author": "TeslaMotors",
+        "videoId": "xoMBs_hW0jo",
+        "hookText": "At Green Mesquite",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/xoMBs_hW0jo\/mqdefault.jpg",
+        "mediaDuration": "48",
+        "hdvFlag": 0,
+        "uploadDate": 1261856562,
+        "prettyDuration": "00:48"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 17.060938
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Electric at Tilly's",
+    "description": "Follow the open road. The newest from Electric is here at Tillys.com.",
+    "referenceId": null,
+    "date_created": "1397072627",
+    "date_modified": "1418181273",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "151942",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Electric-at-Tilly-s",
+    "category": null,
+    "duration": 16,
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "videoId": "VgRq3SXkw1k",
+        "hookText": "Follow the open road. The newest from Electric is here at Tillys.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/VgRq3SXkw1k\/maxresdefault.jpg",
+        "mediaDuration": "16",
+        "hdvFlag": 1,
+        "uploadDate": 1360745357,
+        "prettyDuration": "00:16"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9",
+        "28"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 159.05257
+}

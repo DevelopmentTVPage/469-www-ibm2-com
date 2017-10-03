@@ -1,0 +1,42 @@
+{
+    "title": "TheBlaze TV in 2014: Dream Big",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1408046532",
+    "date_modified": "1418181875",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198063",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "TheBlaze-TV-in-2014-Dream-Big",
+    "category": null,
+    "duration": 294,
+    "settings": [],
+    "asset": {
+        "author": "TheBlaze",
+        "videoId": "iwdqRa2TZ80",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/iwdqRa2TZ80\/maxresdefault.jpg",
+        "mediaDuration": "294",
+        "hdvFlag": 1,
+        "uploadDate": 1407803409,
+        "prettyDuration": "04:54"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "33",
+        "12",
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 168.40625
+}

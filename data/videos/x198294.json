@@ -1,0 +1,42 @@
+{
+    "title": "Ultra HD...and Jeffy | Morning Meeting Extra",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1408046551",
+    "date_modified": "1418181879",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198294",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Ultra-HD-and-Jeffy-Morning-Meeting-Extra",
+    "category": null,
+    "duration": 130,
+    "settings": [],
+    "asset": {
+        "author": "TheBlaze",
+        "videoId": "3ytzRtDfEEA",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/3ytzRtDfEEA\/maxresdefault.jpg",
+        "mediaDuration": "130",
+        "hdvFlag": 1,
+        "uploadDate": 1399077481,
+        "prettyDuration": "02:10"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "32",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 107.07233
+}

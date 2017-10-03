@@ -1,0 +1,41 @@
+{
+    "title": "FACE TIME WITH OLIVER",
+    "description": "Our friend Oliver is a lot of fun. Mostly because you never know what he's gonna do or say next. You should meet him. Just press play.",
+    "referenceId": null,
+    "date_created": "1398292498",
+    "date_modified": "1418181332",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158636",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "FACE-TIME-WITH-OLIVER",
+    "category": null,
+    "duration": 34,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "Grf3WvxBbzo",
+        "hookText": "Our friend Oliver is a lot of fun. Mostly because you never know what he's gonna do or say next. You should meet him. Just press play.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Grf3WvxBbzo\/maxresdefault.jpg",
+        "mediaDuration": "34",
+        "hdvFlag": 1,
+        "uploadDate": 1317443428,
+        "prettyDuration": "00:34"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 428.69904
+}

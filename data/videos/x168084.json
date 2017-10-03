@@ -1,0 +1,40 @@
+{
+    "title": "Cowboy Toy",
+    "description": "http:\/\/PFIWestern.com - Josh and Justin play with a favorite toy for all ages, the Cowboy Toy, Yee Haa!",
+    "referenceId": null,
+    "date_created": "1400657556",
+    "date_modified": "1418181433",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "168084",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Cowboy-Toy",
+    "category": null,
+    "duration": 109,
+    "settings": [],
+    "asset": {
+        "author": "PFI Western Wear Store",
+        "videoId": "HQDqy_Aw3bo",
+        "hookText": "http:\/\/PFIWestern.com - Josh and Justin play with a favorite toy for all ages, the Cowboy Toy, Yee Haa!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/HQDqy_Aw3bo\/hqdefault.jpg",
+        "mediaDuration": "109",
+        "hdvFlag": 0,
+        "uploadDate": 1250305029,
+        "prettyDuration": "01:49"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "31"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 261.6378
+}

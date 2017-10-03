@@ -1,0 +1,43 @@
+{
+    "title": "Hello by Lionel Richie",
+    "description": "The music video for Lionel Richie's \"Hello\" directed by Bob Giraldi, attracts attention as it tells the story of a music teacher (played by Lionel Richie) wh...",
+    "referenceId": null,
+    "date_created": "1396979175",
+    "date_modified": "1418181269",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "151684",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Hello-by-Lionel-Richie",
+    "category": null,
+    "duration": 329,
+    "settings": [],
+    "asset": {
+        "author": "GiraldiMedia",
+        "hdvFlag": 0,
+        "hookText": "The music video for Lionel Richie's \"Hello\" directed by Bob Giraldi, attracts attention as it tells the story of a music teacher (played by Lionel Richie) wh...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/b_ILDFp5DGA\/hqdefault.jpg",
+        "uploadDate": 1247075275,
+        "videoId": "b_ILDFp5DGA",
+        "mediaDuration": "329",
+        "prettyDuration": "05:29"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "7",
+        "11",
+        "33"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 324.97586
+}

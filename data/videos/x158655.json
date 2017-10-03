@@ -1,0 +1,40 @@
+{
+    "title": "FACE TIME WITH ROB",
+    "description": "Meet Rob. He likes to surf.",
+    "referenceId": null,
+    "date_created": "1398292500",
+    "date_modified": "1418181332",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158655",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "FACE-TIME-WITH-ROB",
+    "category": null,
+    "duration": 44,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "-9mXF_2sp6U",
+        "hookText": "Meet Rob. He likes to surf.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/-9mXF_2sp6U\/maxresdefault.jpg",
+        "mediaDuration": "44",
+        "hdvFlag": 1,
+        "uploadDate": 1313554817,
+        "prettyDuration": "00:44"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 326.6099
+}

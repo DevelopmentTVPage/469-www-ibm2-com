@@ -1,0 +1,41 @@
+{
+    "title": "Vega Video Series - Recipes Menu",
+    "description": "Help us caption & translate this video! http:\/\/amara.org\/v\/CCL1\/",
+    "referenceId": null,
+    "date_created": "1399316165",
+    "date_modified": "1418181404",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "165551",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Vega-Video-Series-Recipes-Menu",
+    "category": null,
+    "duration": 21,
+    "settings": [],
+    "asset": {
+        "author": "Vega",
+        "videoId": "4VnVqyWGGgM",
+        "hookText": "Help us caption & translate this video! http:\/\/amara.org\/v\/CCL1\/",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/4VnVqyWGGgM\/maxresdefault.jpg",
+        "mediaDuration": "21",
+        "hdvFlag": 1,
+        "uploadDate": 1343975850,
+        "prettyDuration": "00:21"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "2",
+        "19"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 210.83723
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Mexican Pipeline",
+    "description": "On Monday, June 19th, a day prior to the kick off of the Rip Curl Pro Search WCT \"Somewhere in Mexico\", a massive swell rocked Puerto Escondido.",
+    "referenceId": null,
+    "date_created": "1408468640",
+    "date_modified": "1418181886",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198807",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Mexican-Pipeline",
+    "category": null,
+    "duration": 258,
+    "settings": [],
+    "asset": {
+        "author": "cwpsports",
+        "videoId": "p4BPo8L_YaI",
+        "hookText": "On Monday, June 19th, a day prior to the kick off of the Rip Curl Pro Search WCT \"Somewhere in Mexico\", a massive swell rocked Puerto Escondido.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/p4BPo8L_YaI\/sddefault.jpg",
+        "mediaDuration": "258",
+        "hdvFlag": 0,
+        "uploadDate": 1317964200,
+        "prettyDuration": "04:18"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "2",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 281.28552
+}

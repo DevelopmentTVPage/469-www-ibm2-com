@@ -1,0 +1,40 @@
+{
+    "title": "Texas Tenors Preview Video",
+    "description": "http:\/\/www.StarLiteTheatre.com - Texas Tenors Preview Video.",
+    "referenceId": null,
+    "date_created": "1400657529",
+    "date_modified": "1418181429",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "167799",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Texas-Tenors-Preview-Video",
+    "category": null,
+    "duration": 310,
+    "settings": [],
+    "asset": {
+        "author": "PFI Western Wear Store",
+        "videoId": "pmqpkykDAFQ",
+        "hookText": "http:\/\/www.StarLiteTheatre.com - Texas Tenors Preview Video.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/pmqpkykDAFQ\/maxresdefault.jpg",
+        "mediaDuration": "310",
+        "hdvFlag": 1,
+        "uploadDate": 1353455677,
+        "prettyDuration": "05:10"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 41.480343
+}

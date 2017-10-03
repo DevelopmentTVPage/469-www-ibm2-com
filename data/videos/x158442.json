@@ -1,0 +1,40 @@
+{
+    "title": "PRINT ROOM WITH STECYK AND JP",
+    "description": "H Space at Hurley HQ with Craig Stecyk and JP Olson.",
+    "referenceId": null,
+    "date_created": "1398292479",
+    "date_modified": "1418181330",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158442",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "PRINT-ROOM-WITH-STECYK-AND-JP",
+    "category": null,
+    "duration": 121,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "urNf605_FR4",
+        "hookText": "H Space at Hurley HQ with Craig Stecyk and JP Olson.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/urNf605_FR4\/maxresdefault.jpg",
+        "mediaDuration": "121",
+        "hdvFlag": 1,
+        "uploadDate": 1370904869,
+        "prettyDuration": "02:01"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "28"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 180.00491
+}

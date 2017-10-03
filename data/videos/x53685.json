@@ -1,0 +1,42 @@
+{
+    "title": "Tesla Roadster: SoCalGreenSpeed: Malibu",
+    "description": "SoCalGreenSpeed took a Sunday drive to change the world",
+    "referenceId": null,
+    "date_created": "1370057164",
+    "date_modified": "1418180959",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "53685",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Tesla-Roadster-SoCalGreenSpeed-Malibu",
+    "category": null,
+    "duration": 316,
+    "settings": [],
+    "asset": {
+        "author": "TeslaMotors",
+        "videoId": "WGq1D_7nx_I",
+        "hookText": "SoCalGreenSpeed took a Sunday drive to change the world",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WGq1D_7nx_I\/mqdefault.jpg",
+        "mediaDuration": "316",
+        "hdvFlag": 0,
+        "uploadDate": 1265623702,
+        "prettyDuration": "05:16"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "2",
+        "19",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 173.35275
+}

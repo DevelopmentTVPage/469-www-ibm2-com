@@ -1,0 +1,42 @@
+{
+    "title": "DAY 6 HIGHLIGHTS",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292516",
+    "date_modified": "1418181334",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158813",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "DAY-6-HIGHLIGHTS",
+    "category": null,
+    "duration": 246,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "_TTFTC7jvLU",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/_TTFTC7jvLU\/sddefault.jpg",
+        "mediaDuration": "246",
+        "hdvFlag": 0,
+        "uploadDate": 1285309243,
+        "prettyDuration": "04:06"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "4",
+        "26",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 14.489909
+}

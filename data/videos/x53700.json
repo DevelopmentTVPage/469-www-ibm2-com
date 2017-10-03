@@ -1,0 +1,42 @@
+{
+    "title": "Motor Trend Car of the Year Event",
+    "description": "Tesla's Model S receives Motor Trend's Car of the Year Award. It is the first time in the award's 64-year history that this honor was bestowed upon an automo...",
+    "referenceId": null,
+    "date_created": "1437693555",
+    "date_modified": "1418180959",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "53700",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Motor-Trend-Car-of-the-Year-Event",
+    "category": null,
+    "duration": 1220,
+    "settings": [],
+    "asset": {
+        "author": "TeslaMotors",
+        "videoId": "qfxXmIFfV7I",
+        "hookText": "Tesla's Model S receives Motor Trend's Car of the Year Award. It is the first time in the award's 64-year history that this honor was bestowed upon an automo...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/qfxXmIFfV7I\/mqdefault.jpg",
+        "mediaDuration": "1220",
+        "hdvFlag": 1,
+        "uploadDate": 1353164896,
+        "prettyDuration": "20:20"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "32",
+        "25",
+        "34"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 6330.3345
+}

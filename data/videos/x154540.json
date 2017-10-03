@@ -1,0 +1,41 @@
+{
+    "title": "all music",
+    "description": "Justice is all in ! Ouvre bien grand tes oreilles pour un set de folie en exclu. Rien que pour toi le premier live du nouveau titre de Justice : Civilization...",
+    "referenceId": null,
+    "date_created": "1398106918",
+    "date_modified": "1418181305",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "154540",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "all-music",
+    "category": null,
+    "duration": 186,
+    "settings": [],
+    "asset": {
+        "author": "adidas",
+        "videoId": "CjaXHBv4zH4",
+        "hookText": "Justice is all in ! Ouvre bien grand tes oreilles pour un set de folie en exclu. Rien que pour toi le premier live du nouveau titre de Justice : Civilization...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CjaXHBv4zH4\/maxresdefault.jpg",
+        "mediaDuration": "186",
+        "hdvFlag": 1,
+        "uploadDate": 1300437188,
+        "prettyDuration": "03:06"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 180.2749
+}

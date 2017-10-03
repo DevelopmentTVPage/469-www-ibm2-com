@@ -1,0 +1,42 @@
+{
+    "title": "are you in?",
+    "description": "London is all in, are you? www.adidas.com\/areyouin.",
+    "referenceId": null,
+    "date_created": "1398106914",
+    "date_modified": "1418181307",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "154669",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "are-you-in",
+    "category": null,
+    "duration": 19,
+    "settings": [],
+    "asset": {
+        "author": "adidas",
+        "videoId": "0i82J73glE4",
+        "hookText": "London is all in, are you? www.adidas.com\/areyouin.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/0i82J73glE4\/hqdefault.jpg",
+        "mediaDuration": "19",
+        "hdvFlag": 0,
+        "uploadDate": 1301682412,
+        "prettyDuration": "00:19"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "31",
+        "23",
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 4486.5347
+}

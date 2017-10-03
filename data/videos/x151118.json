@@ -1,0 +1,40 @@
+{
+    "title": "adidas adipower-full version",
+    "description": "visit adidas.com\/adipower and take your game to the next level.",
+    "referenceId": null,
+    "date_created": "1396646909",
+    "date_modified": "1418181259",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "151118",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "adidas-adipower-full-version",
+    "category": null,
+    "duration": 28,
+    "settings": [],
+    "asset": {
+        "author": "adidas",
+        "videoId": "2VMUfMSm_Z0",
+        "hookText": "visit adidas.com\/adipower and take your game to the next level.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/2VMUfMSm_Z0\/maxresdefault.jpg",
+        "mediaDuration": "28",
+        "hdvFlag": 1,
+        "uploadDate": 1316037178,
+        "prettyDuration": "00:28"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 406.6164
+}

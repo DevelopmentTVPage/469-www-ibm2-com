@@ -1,0 +1,40 @@
+{
+    "title": "Tilly's Surf & Skate Clothing",
+    "description": "Tilly's is your destination for the latest social events, autograph signings, Tilly's store opening, music events, surfing events, skating events, photo shoo...",
+    "referenceId": null,
+    "date_created": "1397072638",
+    "date_modified": "1418181275",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "152049",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Tilly-s-Surf-Skate-Clothing",
+    "category": null,
+    "duration": 201,
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "videoId": "WEFuDTONZvI",
+        "hookText": "Tilly's is your destination for the latest social events, autograph signings, Tilly's store opening, music events, surfing events, skating events, photo shoo...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WEFuDTONZvI\/hqdefault.jpg",
+        "mediaDuration": "201",
+        "hdvFlag": 0,
+        "uploadDate": 1272082802,
+        "prettyDuration": "03:21"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 203.51675
+}

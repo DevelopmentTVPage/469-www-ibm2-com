@@ -1,0 +1,42 @@
+{
+    "title": "A special Fashion's Night Out message",
+    "description": "We have something very \"gleeful\" planned tomorrow night for our Madison Avenue lifestyle store! Hope to see you there!",
+    "referenceId": null,
+    "date_created": "1385969231",
+    "date_modified": "1418181125",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135219",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "A-special-Fashion-s-Night-Out-message",
+    "category": null,
+    "duration": 46,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "zdWMJbFOD6c",
+        "hookText": "We have something very \"gleeful\" planned tomorrow night for our Madison Avenue lifestyle store! Hope to see you there!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/zdWMJbFOD6c\/maxresdefault.jpg",
+        "mediaDuration": "46",
+        "hdvFlag": 1,
+        "uploadDate": 1284063517,
+        "prettyDuration": "00:46"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9",
+        "26",
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 310.86734
+}

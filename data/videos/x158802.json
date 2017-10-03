@@ -1,0 +1,41 @@
+{
+    "title": "WHAT THEY RIDE: KELLY SLATER",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292515",
+    "date_modified": "1418181334",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158802",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "WHAT-THEY-RIDE-KELLY-SLATER",
+    "category": null,
+    "duration": 54,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "lt02iAS9C3g",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/lt02iAS9C3g\/maxresdefault.jpg",
+        "mediaDuration": "54",
+        "hdvFlag": 1,
+        "uploadDate": 1285312207,
+        "prettyDuration": "00:54"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "33",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 205.05238
+}

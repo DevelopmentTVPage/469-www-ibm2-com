@@ -1,0 +1,41 @@
+{
+    "title": "MAKING OF AWESOME",
+    "description": "A behind-the-scenes look at the build out for the Awesome opening on Saturday, June 11th from 6-9pm.",
+    "referenceId": null,
+    "date_created": "1398292503",
+    "date_modified": "1418181333",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158683",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "MAKING-OF-AWESOME",
+    "category": null,
+    "duration": 45,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "sIL6oU-ZJiE",
+        "hookText": "A behind-the-scenes look at the build out for the Awesome opening on Saturday, June 11th from 6-9pm.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/sIL6oU-ZJiE\/sddefault.jpg",
+        "mediaDuration": "45",
+        "hdvFlag": 0,
+        "uploadDate": 1307670204,
+        "prettyDuration": "00:45"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 321.73657
+}

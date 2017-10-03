@@ -1,0 +1,40 @@
+{
+    "title": "Doc & Skip's Field Goal Bet",
+    "description": "Skip Lacombe attempted to kick a 20-yard field goal. Here's what happened.",
+    "referenceId": null,
+    "date_created": "1408046594",
+    "date_modified": "1418181884",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198649",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Doc-Skip-s-Field-Goal-Bet",
+    "category": null,
+    "duration": 243,
+    "settings": [],
+    "asset": {
+        "author": "TheBlaze",
+        "videoId": "uUKA48evkA4",
+        "hookText": "Skip Lacombe attempted to kick a 20-yard field goal. Here's what happened.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/uUKA48evkA4\/maxresdefault.jpg",
+        "mediaDuration": "243",
+        "hdvFlag": 1,
+        "uploadDate": 1392081928,
+        "prettyDuration": "04:03"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 180.20305
+}

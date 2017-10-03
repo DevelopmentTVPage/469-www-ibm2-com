@@ -1,0 +1,40 @@
+{
+    "title": "sample mpeg4",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1417563402",
+    "date_modified": "1418182168",
+    "tags": "",
+    "sourceId": null,
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3782919",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "sample-mpeg4",
+    "category": null,
+    "duration": 5,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "thumbnailUrl": "https:\/\/i.vimeocdn.com\/video\/498663740_960x1213.jpg",
+        "mediaDuration": 5,
+        "prettyDuration": "00:05",
+        "uploadDate": 1417511941,
+        "tags": "",
+        "hookText": ""
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 7.7821774
+}

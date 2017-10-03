@@ -1,0 +1,40 @@
+{
+    "title": "Kate Somerville loves QVC!",
+    "description": "Kate tells Lisa Rinna how important it is to connect with customers through QVC.",
+    "referenceId": null,
+    "date_created": "1399581813",
+    "date_modified": "1418181407",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "165828",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Kate-Somerville-loves-QVC",
+    "category": null,
+    "duration": 43,
+    "settings": [],
+    "asset": {
+        "author": "Kate Somerville",
+        "videoId": "MVw_mFK-K6I",
+        "hookText": "Kate tells Lisa Rinna how important it is to connect with customers through QVC.",
+        "thumbnailUrl": "https:\/\/i1.ytimg.com\/vi\/MVw_mFK-K6I\/hqdefault.jpg",
+        "mediaDuration": "43",
+        "hdvFlag": 0,
+        "uploadDate": 1271470666,
+        "prettyDuration": "00:43"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "22"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 314.10947
+}

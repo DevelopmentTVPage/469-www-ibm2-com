@@ -1,0 +1,42 @@
+{
+    "title": "Jerome's Furniture",
+    "description": "At Jerome's, our goal is to make furniture buying as easy as possible. From our low prices and huge selection, to Same Day Delivery, we're constantly working...",
+    "referenceId": null,
+    "date_created": "1402041336",
+    "date_modified": "1418181475",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "171539",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Jerome-s-Furniture",
+    "category": null,
+    "duration": 73,
+    "settings": [],
+    "asset": {
+        "author": "KudzuTV",
+        "hdvFlag": 0,
+        "hookText": "At Jerome's, our goal is to make furniture buying as easy as possible. From our low prices and huge selection, to Same Day Delivery, we're constantly working...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/l_aV0Z62HhY\/hqdefault.jpg",
+        "uploadDate": 1320949546,
+        "videoId": "l_aV0Z62HhY",
+        "mediaDuration": "73",
+        "prettyDuration": "01:13"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 417.81555
+}

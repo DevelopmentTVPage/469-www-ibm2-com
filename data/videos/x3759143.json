@@ -1,0 +1,43 @@
+{
+    "title": "Nautica Malibu Triathlon TV Show - Part 1",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1408555629",
+    "date_modified": "1418181902",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3759143",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Nautica-Malibu-Triathlon-TV-Show-Part-1",
+    "category": null,
+    "duration": 538,
+    "settings": [],
+    "asset": {
+        "author": "Nautica Malibu Triathlon presented by Equinox",
+        "hdvFlag": 0,
+        "hookText": "",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/aPWkiGYa11o\/hqdefault.jpg",
+        "uploadDate": 1249576988,
+        "videoId": "aPWkiGYa11o",
+        "mediaDuration": "538",
+        "prettyDuration": "08:58"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "7",
+        "31",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 165.89441
+}

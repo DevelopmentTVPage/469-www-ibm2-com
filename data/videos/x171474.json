@@ -1,0 +1,39 @@
+{
+    "title": "H264_test1_Talkinghead_mp4_480x360.mp4",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1401937766",
+    "date_modified": "1418181474",
+    "tags": "",
+    "sourceId": "5",
+    "VIDEO_LENGTH": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "171474",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "H264-test1-Talkinghead-mp4-480x360-mp4",
+    "category": null,
+    "duration": null,
+    "settings": [],
+    "asset": {
+        "type": "mp4",
+        "sources": [
+            {
+                "file": "\/\/do0631budpzeh.cloudfront.net\/live\/videos\/3\/b411a8e8_eef2_4a51_8898_662e229f38dc.mp4"
+            }
+        ],
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/assets\/thumb\/mp4default.jpg",
+        "mediaDuration": "0",
+        "prettyDuration": "00:00"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 0
+}

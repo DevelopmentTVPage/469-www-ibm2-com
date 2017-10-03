@@ -1,0 +1,41 @@
+{
+    "title": "Extra Credits: NOT a Security Episode",
+    "description": "Now that the whole PSN mess is (mostly) wrapped up, we discuss the changing relationship between corporation and consumer, and the trust that relationship is...",
+    "referenceId": null,
+    "date_created": "1406055194",
+    "date_modified": "1418181774",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "191765",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Extra-Credits-NOT-a-Security-Episode",
+    "category": null,
+    "duration": 479,
+    "settings": [],
+    "asset": {
+        "author": "Extra Credits",
+        "videoId": "rgXf1clkN08",
+        "hookText": "Now that the whole PSN mess is (mostly) wrapped up, we discuss the changing relationship between corporation and consumer, and the trust that relationship is...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/rgXf1clkN08\/maxresdefault.jpg",
+        "mediaDuration": "479",
+        "hdvFlag": 1,
+        "uploadDate": 1336959272,
+        "prettyDuration": "07:59"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 388.48117
+}

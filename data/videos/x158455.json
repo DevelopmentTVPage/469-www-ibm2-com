@@ -1,0 +1,42 @@
+{
+    "title": "HURLEY PRO 2013 TRAILER",
+    "description": "The Hurley Pro: September 15 - 21, 2013. See more at http:\/\/www.thehurleypro.com.",
+    "referenceId": null,
+    "date_created": "1398292480",
+    "date_modified": "1418181330",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158455",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "HURLEY-PRO-2013-TRAILER",
+    "category": null,
+    "duration": 83,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "hyEKPiC2JqU",
+        "hookText": "The Hurley Pro: September 15 - 21, 2013. See more at http:\/\/www.thehurleypro.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/hyEKPiC2JqU\/maxresdefault.jpg",
+        "mediaDuration": "83",
+        "hdvFlag": 1,
+        "uploadDate": 1368748749,
+        "prettyDuration": "01:23"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16",
+        "7",
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 143.40619
+}

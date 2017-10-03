@@ -1,0 +1,40 @@
+{
+    "title": "PHANTOM FUSE EXPLAINED",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292488",
+    "date_modified": "1418181331",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158534",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "PHANTOM-FUSE-EXPLAINED",
+    "category": null,
+    "duration": 77,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "CHkgl7XWgec",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CHkgl7XWgec\/maxresdefault.jpg",
+        "mediaDuration": "77",
+        "hdvFlag": 1,
+        "uploadDate": 1341290706,
+        "prettyDuration": "01:17"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 16.645277
+}

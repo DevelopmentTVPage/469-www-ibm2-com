@@ -1,0 +1,41 @@
+{
+    "title": "HARLEM SHAKE (HURLEY EDITION)",
+    "description": "The Hurley Marketing Team takes on the Harlem Shake.",
+    "referenceId": null,
+    "date_created": "1398292484",
+    "date_modified": "1418181330",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158498",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "HARLEM-SHAKE-HURLEY-EDITION",
+    "category": null,
+    "duration": 30,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "6qtQUd5GiSY",
+        "hookText": "The Hurley Marketing Team takes on the Harlem Shake.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/6qtQUd5GiSY\/maxresdefault.jpg",
+        "mediaDuration": "30",
+        "hdvFlag": 1,
+        "uploadDate": 1360739644,
+        "prettyDuration": "00:30"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 118.679245
+}

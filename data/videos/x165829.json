@@ -1,0 +1,42 @@
+{
+    "title": "Celebrity Skin Care Secrets",
+    "description": "In the series \"Red Carpet Confidential,\" skin care expert Kate Somerville talks to Julie Chen about celebrity skin care tips, including the skin health pyramid.",
+    "referenceId": null,
+    "date_created": "1399581813",
+    "date_modified": "1418181407",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "165829",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Celebrity-Skin-Care-Secrets",
+    "category": null,
+    "duration": 259,
+    "settings": [],
+    "asset": {
+        "author": "Kate Somerville",
+        "videoId": "SaDzSCsa46w",
+        "hookText": "In the series \"Red Carpet Confidential,\" skin care expert Kate Somerville talks to Julie Chen about celebrity skin care tips, including the skin health pyramid.",
+        "thumbnailUrl": "https:\/\/i1.ytimg.com\/vi\/SaDzSCsa46w\/hqdefault.jpg",
+        "mediaDuration": "259",
+        "hdvFlag": 0,
+        "uploadDate": 1234925180,
+        "prettyDuration": "04:19"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "4",
+        "16",
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 2741.027
+}

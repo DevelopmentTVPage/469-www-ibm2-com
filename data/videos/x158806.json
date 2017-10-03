@@ -1,0 +1,41 @@
+{
+    "title": "WHAT THEY RIDE: DANE REYNOLDS",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292515",
+    "date_modified": "1418181334",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158806",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "WHAT-THEY-RIDE-DANE-REYNOLDS",
+    "category": null,
+    "duration": 46,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "vEkgEnoDsYU",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/vEkgEnoDsYU\/maxresdefault.jpg",
+        "mediaDuration": "46",
+        "hdvFlag": 1,
+        "uploadDate": 1285311165,
+        "prettyDuration": "00:46"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "31",
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 149.44017
+}

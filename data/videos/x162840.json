@@ -1,0 +1,41 @@
+{
+    "title": "Korn - A.D.I.D.A.S.",
+    "description": "Music video by Korn performing A.D.I.D.A.S.. (C) 1996 SONY BMG MUSIC ENTERTAINMENT.",
+    "referenceId": null,
+    "date_created": "1398792308",
+    "date_modified": "1418181370",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "162840",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Korn-A-D-I-D-A-S",
+    "category": null,
+    "duration": 154,
+    "settings": [],
+    "asset": {
+        "author": "KornVEVO",
+        "hdvFlag": 0,
+        "hookText": "Music video by Korn performing A.D.I.D.A.S.. (C) 1996 SONY BMG MUSIC ENTERTAINMENT.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/239vHrwt8Rs\/hqdefault.jpg",
+        "uploadDate": 1256460056,
+        "videoId": "239vHrwt8Rs",
+        "mediaDuration": "154",
+        "prettyDuration": "02:34"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 131.01883
+}

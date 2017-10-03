@@ -1,0 +1,40 @@
+{
+    "title": "Holiday 2011 Ad Campaign",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1385969228",
+    "date_modified": "1418181124",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135193",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Holiday-2011-Ad-Campaign",
+    "category": null,
+    "duration": 60,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "Mz5dt7CqFEA",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/Mz5dt7CqFEA\/maxresdefault.jpg",
+        "mediaDuration": "60",
+        "hdvFlag": 0,
+        "uploadDate": 1320723596,
+        "prettyDuration": "01:00"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 165.72668
+}

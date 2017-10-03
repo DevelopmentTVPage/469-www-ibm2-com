@@ -1,0 +1,42 @@
+{
+    "title": "Knorr Gourmet Wild Mushroom Soup",
+    "description": "Indulge the foodie in you with the extraordinary richness of Knorr Gourmet Soups. Made with real vegetable chunks and the finest of ingredients hand-picked by ...",
+    "referenceId": "CiRLzD2ZfMk",
+    "date_created": "1488225529",
+    "date_modified": "1488225529",
+    "tags": null,
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "85582132",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Knorr-Gourmet-Wild-Mushroom-Soup",
+    "category": null,
+    "duration": 32,
+    "settings": null,
+    "asset": {
+        "type": "youtube",
+        "author": "Knorr Arabia",
+        "hdvFlag": 1,
+        "description": "Indulge the foodie in you with the extraordinary richness of Knorr Gourmet Soups. Made with real vegetable chunks and the finest of ingredients hand-picked by ...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CiRLzD2ZfMk\/hqdefault.jpg",
+        "videoId": "CiRLzD2ZfMk",
+        "mediaDuration": 32,
+        "prettyDuration": "00:00:32"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "20",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 309.32538
+}

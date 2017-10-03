@@ -1,0 +1,40 @@
+{
+    "title": "Tesla roadster test drive",
+    "description": "Tesla motors Newport beach. Roadster S 0-60 3.7s. Range 250 miles",
+    "referenceId": null,
+    "date_created": "1370057161",
+    "date_modified": "1418180959",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "53657",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Tesla-roadster-test-drive",
+    "category": null,
+    "duration": 415,
+    "settings": [],
+    "asset": {
+        "author": "TeslaMotors",
+        "videoId": "CtbMNeoowRA",
+        "hookText": "Tesla motors Newport beach. Roadster S 0-60 3.7s. Range 250 miles",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CtbMNeoowRA\/mqdefault.jpg",
+        "mediaDuration": "415",
+        "hdvFlag": 0,
+        "uploadDate": 1286346692,
+        "prettyDuration": "06:55"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 196.50871
+}

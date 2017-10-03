@@ -1,0 +1,41 @@
+{
+    "title": "Taco Bell Budget | Morning Meeting Extra",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1408046550",
+    "date_modified": "1418181878",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198276",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Taco-Bell-Budget-Morning-Meeting-Extra",
+    "category": null,
+    "duration": 47,
+    "settings": [],
+    "asset": {
+        "author": "TheBlaze",
+        "videoId": "vfc_JgsqlQA",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/vfc_JgsqlQA\/maxresdefault.jpg",
+        "mediaDuration": "47",
+        "hdvFlag": 1,
+        "uploadDate": 1399685458,
+        "prettyDuration": "00:47"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 24.90726
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Backstage at the Michael Kors Spring 2012 Show",
+    "description": "Go backstage with Michael at his Spring 2012 Show!",
+    "referenceId": null,
+    "date_created": "1385969228",
+    "date_modified": "1418181124",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135195",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Backstage-at-the-Michael-Kors-Spring-2012-Show",
+    "category": null,
+    "duration": 101,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "GLPrU3G8UjQ",
+        "hookText": "Go backstage with Michael at his Spring 2012 Show!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/GLPrU3G8UjQ\/maxresdefault.jpg",
+        "mediaDuration": "101",
+        "hdvFlag": 1,
+        "uploadDate": 1316567127,
+        "prettyDuration": "01:41"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 250.86522
+}

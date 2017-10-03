@@ -1,0 +1,40 @@
+{
+    "title": "Tesla Roadster 2.5s test drive",
+    "description": "Wow...",
+    "referenceId": null,
+    "date_created": "1370057161",
+    "date_modified": "1418180959",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "53656",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Tesla-Roadster-2-5s-test-drive",
+    "category": null,
+    "duration": 89,
+    "settings": [],
+    "asset": {
+        "author": "TeslaMotors",
+        "videoId": "oc2m9FNk1oc",
+        "hookText": "Wow...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/oc2m9FNk1oc\/mqdefault.jpg",
+        "mediaDuration": "89",
+        "hdvFlag": 1,
+        "uploadDate": 1287247007,
+        "prettyDuration": "01:29"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 185.14316
+}

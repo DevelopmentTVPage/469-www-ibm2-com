@@ -1,0 +1,40 @@
+{
+    "title": "Premiere of Iron Man",
+    "description": "Michael Kors and The Cinema Society hosted the New York premiere of this summer's hit movie IRON MAN. The film's stars, Gwyneth Paltrow and Robert Downey Jr....",
+    "referenceId": null,
+    "date_created": "1385969236",
+    "date_modified": "1418181125",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135231",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Premiere-of-Iron-Man",
+    "category": null,
+    "duration": 120,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "ygeTz4nRFNQ",
+        "hookText": "Michael Kors and The Cinema Society hosted the New York premiere of this summer's hit movie IRON MAN. The film's stars, Gwyneth Paltrow and Robert Downey Jr....",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/ygeTz4nRFNQ\/hqdefault.jpg",
+        "mediaDuration": "120",
+        "hdvFlag": 0,
+        "uploadDate": 1212554814,
+        "prettyDuration": "02:00"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 6393.025
+}

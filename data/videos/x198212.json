@@ -1,0 +1,40 @@
+{
+    "title": "Glenn Beck's Letter to Hannah",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1408046544",
+    "date_modified": "1418181877",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198212",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Glenn-Beck-s-Letter-to-Hannah",
+    "category": null,
+    "duration": 346,
+    "settings": [],
+    "asset": {
+        "author": "TheBlaze",
+        "videoId": "8xNdV7TWmGE",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8xNdV7TWmGE\/maxresdefault.jpg",
+        "mediaDuration": "346",
+        "hdvFlag": 1,
+        "uploadDate": 1402367306,
+        "prettyDuration": "05:46"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "23"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 14.523766
+}

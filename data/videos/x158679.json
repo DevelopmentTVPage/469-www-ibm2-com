@@ -1,0 +1,42 @@
+{
+    "title": "AN AWESOME VIDEO",
+    "description": "You've seen the photos, now check the video. When it comes to the Awesome show, we're like proud parents, we can't say enough good things. So, no more talkin...",
+    "referenceId": null,
+    "date_created": "1398292503",
+    "date_modified": "1418181333",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158679",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "AN-AWESOME-VIDEO",
+    "category": null,
+    "duration": 271,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "zeMf4Oguqac",
+        "hookText": "You've seen the photos, now check the video. When it comes to the Awesome show, we're like proud parents, we can't say enough good things. So, no more talkin...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/zeMf4Oguqac\/sddefault.jpg",
+        "mediaDuration": "271",
+        "hdvFlag": 0,
+        "uploadDate": 1308633000,
+        "prettyDuration": "04:31"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "9",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 305.49017
+}

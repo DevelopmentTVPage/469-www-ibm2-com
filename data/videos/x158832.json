@@ -1,0 +1,41 @@
+{
+    "title": "WHAT THEY RIDE: FRED PATACCHIA",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292518",
+    "date_modified": "1418181335",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158832",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "WHAT-THEY-RIDE-FRED-PATACCHIA",
+    "category": null,
+    "duration": 30,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "x4yshmFsHvI",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/x4yshmFsHvI\/maxresdefault.jpg",
+        "mediaDuration": "30",
+        "hdvFlag": 1,
+        "uploadDate": 1284624252,
+        "prettyDuration": "00:30"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "31",
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 149.44017
+}

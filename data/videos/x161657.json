@@ -1,0 +1,41 @@
+{
+    "title": "Elizabeth Hurley",
+    "description": "Lionsgate.",
+    "referenceId": null,
+    "date_created": "1398446029",
+    "date_modified": "1418181370",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "161657",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Elizabeth-Hurley",
+    "category": null,
+    "duration": 206,
+    "settings": [],
+    "asset": {
+        "author": "Losemyillusions",
+        "hdvFlag": 0,
+        "hookText": "Lionsgate.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/E7KtCrWdj9U\/hqdefault.jpg",
+        "uploadDate": 1306143775,
+        "videoId": "E7KtCrWdj9U",
+        "mediaDuration": "206",
+        "prettyDuration": "03:26"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9.45926
+}

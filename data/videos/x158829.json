@@ -1,0 +1,40 @@
+{
+    "title": "HANGING WITH ROB MACHADO",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292518",
+    "date_modified": "1418181335",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158829",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "HANGING-WITH-ROB-MACHADO",
+    "category": null,
+    "duration": 176,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "CZkCbXZlWNw",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CZkCbXZlWNw\/hqdefault.jpg",
+        "mediaDuration": "176",
+        "hdvFlag": 0,
+        "uploadDate": 1284627357,
+        "prettyDuration": "02:56"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 186.52782
+}

@@ -1,0 +1,42 @@
+{
+    "title": "WHAT THEY RIDE: ADRIANO DE SOUZA",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292516",
+    "date_modified": "1418181334",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158810",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "WHAT-THEY-RIDE-ADRIANO-DE-SOUZA",
+    "category": null,
+    "duration": 36,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "apJOlCMIsmI",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/apJOlCMIsmI\/maxresdefault.jpg",
+        "mediaDuration": "36",
+        "hdvFlag": 1,
+        "uploadDate": 1285309908,
+        "prettyDuration": "00:36"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "31",
+        "4",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 153.8443
+}

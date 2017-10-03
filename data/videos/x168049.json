@@ -1,0 +1,40 @@
+{
+    "title": "Texas Tenors 30 Second TV Spot",
+    "description": "http:\/\/www.StarLiteTheatre.com - Texas Tenors 30 Second TV Spot.",
+    "referenceId": null,
+    "date_created": "1400657553",
+    "date_modified": "1418181432",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "168049",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Texas-Tenors-30-Second-TV-Spot",
+    "category": null,
+    "duration": 31,
+    "settings": [],
+    "asset": {
+        "author": "PFI Western Wear Store",
+        "videoId": "sbvioAR8KFU",
+        "hookText": "http:\/\/www.StarLiteTheatre.com - Texas Tenors 30 Second TV Spot.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/sbvioAR8KFU\/maxresdefault.jpg",
+        "mediaDuration": "31",
+        "hdvFlag": 1,
+        "uploadDate": 1272671046,
+        "prettyDuration": "00:31"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 2775.6863
+}

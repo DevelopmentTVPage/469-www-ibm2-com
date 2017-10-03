@@ -1,0 +1,42 @@
+{
+    "title": "SWIM TEASER 2012",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292491",
+    "date_modified": "1418181331",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158563",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "SWIM-TEASER-2012",
+    "category": null,
+    "duration": 31,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "lntx4Uqsb80",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/lntx4Uqsb80\/maxresdefault.jpg",
+        "mediaDuration": "31",
+        "hdvFlag": 1,
+        "uploadDate": 1331372313,
+        "prettyDuration": "00:31"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9",
+        "25",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 8.73588
+}

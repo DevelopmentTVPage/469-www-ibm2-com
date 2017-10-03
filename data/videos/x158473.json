@@ -1,0 +1,42 @@
+{
+    "title": "HURLEY YOUTUBE: JOIN THE BLOCK PARTY",
+    "description": "Make sure to subscribe to the Hurley YouTube channel to keep up to date on all our latest and greatest happenings.",
+    "referenceId": null,
+    "date_created": "1398292482",
+    "date_modified": "1418181330",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158473",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "HURLEY-YOUTUBE-JOIN-THE-BLOCK-PARTY",
+    "category": null,
+    "duration": 88,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "oPJ1sHpDbhw",
+        "hookText": "Make sure to subscribe to the Hurley YouTube channel to keep up to date on all our latest and greatest happenings.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/oPJ1sHpDbhw\/maxresdefault.jpg",
+        "mediaDuration": "88",
+        "hdvFlag": 1,
+        "uploadDate": 1365059155,
+        "prettyDuration": "01:28"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "26",
+        "18",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 553.19135
+}

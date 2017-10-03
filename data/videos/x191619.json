@@ -1,0 +1,40 @@
+{
+    "title": "Extra Credits Introduces New Show: James Recommends!",
+    "description": "March 28 marks the debut of \"James Recommends,\" a new show on the Extra Credits channel! This weekly series will introduce you to new, interesting video game...",
+    "referenceId": null,
+    "date_created": "1406055183",
+    "date_modified": "1418181771",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "191619",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Extra-Credits-Introduces-New-Show-James-Recommends",
+    "category": null,
+    "duration": 58,
+    "settings": [],
+    "asset": {
+        "author": "Extra Credits",
+        "videoId": "_K4vDMUBDdA",
+        "hookText": "March 28 marks the debut of \"James Recommends,\" a new show on the Extra Credits channel! This weekly series will introduce you to new, interesting video game...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/_K4vDMUBDdA\/maxresdefault.jpg",
+        "mediaDuration": "58",
+        "hdvFlag": 1,
+        "uploadDate": 1395705603,
+        "prettyDuration": "00:58"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "2"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 2920.91
+}

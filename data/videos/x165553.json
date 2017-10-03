@@ -1,0 +1,42 @@
+{
+    "title": "Vega Video Products Menu",
+    "description": "This video provides an easy reference to the Vega Product Video Series. Help us caption & translate this video! http:\/\/amara.org\/v\/CCLZ\/",
+    "referenceId": null,
+    "date_created": "1399316165",
+    "date_modified": "1418181404",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "165553",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Vega-Video-Products-Menu",
+    "category": null,
+    "duration": 21,
+    "settings": [],
+    "asset": {
+        "author": "Vega",
+        "videoId": "HMKKTUrLStU",
+        "hookText": "This video provides an easy reference to the Vega Product Video Series. Help us caption & translate this video! http:\/\/amara.org\/v\/CCLZ\/",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/HMKKTUrLStU\/maxresdefault.jpg",
+        "mediaDuration": "21",
+        "hdvFlag": 1,
+        "uploadDate": 1343975150,
+        "prettyDuration": "00:21"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "12",
+        "19"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 231.43147
+}

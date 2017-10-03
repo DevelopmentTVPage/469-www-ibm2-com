@@ -1,0 +1,41 @@
+{
+    "title": "SCOTTY STOPNIK STIRS UP SOME FUN",
+    "description": "Forty seconds of good-natured mayhem with resident trouble maker Scotty Stopnik.",
+    "referenceId": null,
+    "date_created": "1398292490",
+    "date_modified": "1418181331",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158552",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "SCOTTY-STOPNIK-STIRS-UP-SOME-FUN",
+    "category": null,
+    "duration": 37,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "y6XMn_STvBI",
+        "hookText": "Forty seconds of good-natured mayhem with resident trouble maker Scotty Stopnik.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/y6XMn_STvBI\/maxresdefault.jpg",
+        "mediaDuration": "37",
+        "hdvFlag": 1,
+        "uploadDate": 1338351150,
+        "prettyDuration": "00:37"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "2",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 126.73373
+}

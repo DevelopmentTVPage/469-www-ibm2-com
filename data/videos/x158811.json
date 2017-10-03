@@ -1,0 +1,40 @@
+{
+    "title": "WHAT THEY RIDE: TRAVIS LOGIE",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292516",
+    "date_modified": "1418181334",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158811",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "WHAT-THEY-RIDE-TRAVIS-LOGIE",
+    "category": null,
+    "duration": 41,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "4bn75SFpUGU",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/4bn75SFpUGU\/maxresdefault.jpg",
+        "mediaDuration": "41",
+        "hdvFlag": 1,
+        "uploadDate": 1285309832,
+        "prettyDuration": "00:41"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "31"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 161.85797
+}

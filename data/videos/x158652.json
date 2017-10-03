@@ -1,0 +1,41 @@
+{
+    "title": "THRICE ACOUSTIC SESSIONS - \"PROMISES\"",
+    "description": "Watch Thrice perform \"Promises\" live in the Hurley studios.",
+    "referenceId": null,
+    "date_created": "1398292500",
+    "date_modified": "1418181332",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158652",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "THRICE-ACOUSTIC-SESSIONS-PROMISES",
+    "category": null,
+    "duration": 199,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "8_iH-jd48YQ",
+        "hookText": "Watch Thrice perform \"Promises\" live in the Hurley studios.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8_iH-jd48YQ\/sddefault.jpg",
+        "mediaDuration": "199",
+        "hdvFlag": 0,
+        "uploadDate": 1317433647,
+        "prettyDuration": "03:19"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "4",
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 113.50155
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Wave Skiing",
+    "description": "Chuck Patterson is a former pro Freeskier, a professional Waterman, and one of the most fearless humans we've ever met. After a brief experiment with skiing ...",
+    "referenceId": null,
+    "date_created": "1408468640",
+    "date_modified": "1418181886",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198809",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Wave-Skiing",
+    "category": null,
+    "duration": 318,
+    "settings": [],
+    "asset": {
+        "author": "cwpsports",
+        "videoId": "E_XVsGuieVo",
+        "hookText": "Chuck Patterson is a former pro Freeskier, a professional Waterman, and one of the most fearless humans we've ever met. After a brief experiment with skiing ...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/E_XVsGuieVo\/sddefault.jpg",
+        "mediaDuration": "318",
+        "hdvFlag": 0,
+        "uploadDate": 1317863830,
+        "prettyDuration": "05:18"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "18",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 343.3822
+}

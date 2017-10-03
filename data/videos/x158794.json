@@ -1,0 +1,41 @@
+{
+    "title": "WHAT THEY RIDE: TAJ BURROW",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292514",
+    "date_modified": "1418181334",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158794",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "WHAT-THEY-RIDE-TAJ-BURROW",
+    "category": null,
+    "duration": 69,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "gP_B6f-AATQ",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/gP_B6f-AATQ\/maxresdefault.jpg",
+        "mediaDuration": "69",
+        "hdvFlag": 1,
+        "uploadDate": 1285385021,
+        "prettyDuration": "01:09"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "31",
+        "4"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 149.44017
+}

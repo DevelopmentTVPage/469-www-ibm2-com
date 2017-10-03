@@ -1,0 +1,41 @@
+{
+    "title": "Backstage at Good Morning America",
+    "description": "Michael and Heidi have a ball backstage at Good Morning America - July 12, 2010.",
+    "referenceId": null,
+    "date_created": "1385969235",
+    "date_modified": "1418181125",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135227",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Backstage-at-Good-Morning-America",
+    "category": null,
+    "duration": 21,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "iAp9etq7FlA",
+        "hookText": "Michael and Heidi have a ball backstage at Good Morning America - July 12, 2010.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/iAp9etq7FlA\/maxresdefault.jpg",
+        "mediaDuration": "21",
+        "hdvFlag": 1,
+        "uploadDate": 1278973366,
+        "prettyDuration": "00:21"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 132.92642
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Extra Remix Schedule Change",
+    "description": "Extra Remix will no longer be a weekly show. We love making it and of course it will stick around, but going forward, new episodes will come out as we have t...",
+    "referenceId": null,
+    "date_created": "1406055180",
+    "date_modified": "1418181771",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "191582",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Extra-Remix-Schedule-Change",
+    "category": null,
+    "duration": 63,
+    "settings": [],
+    "asset": {
+        "author": "Extra Credits",
+        "videoId": "pTs1iQCr7gY",
+        "hookText": "Extra Remix will no longer be a weekly show. We love making it and of course it will stick around, but going forward, new episodes will come out as we have t...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/pTs1iQCr7gY\/maxresdefault.jpg",
+        "mediaDuration": "63",
+        "hdvFlag": 1,
+        "uploadDate": 1402952716,
+        "prettyDuration": "01:03"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "19",
+        "18",
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 375.14185
+}

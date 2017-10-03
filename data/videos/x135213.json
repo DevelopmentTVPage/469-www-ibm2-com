@@ -1,0 +1,40 @@
+{
+    "title": "8th Annual Teen Vogue Young Hollywood party",
+    "description": "Hit the red carpet with Hollywood's stars of today and tomorrow, glammed out in Michael Kors, of course!",
+    "referenceId": null,
+    "date_created": "1385969230",
+    "date_modified": "1418181124",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "135213",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "8th-Annual-Teen-Vogue-Young-Hollywood-party",
+    "category": null,
+    "duration": null,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "XKpu0GgHrKY",
+        "hookText": "Hit the red carpet with Hollywood's stars of today and tomorrow, glammed out in Michael Kors, of course!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/XKpu0GgHrKY\/hqdefault.jpg",
+        "mediaDuration": "0",
+        "hdvFlag": 0,
+        "uploadDate": 1286584296,
+        "prettyDuration": "00:00"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "19"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 296.52908
+}

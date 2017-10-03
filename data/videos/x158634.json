@@ -1,0 +1,41 @@
+{
+    "title": "MADE J IN STUDIO",
+    "description": "Watch Made J perform \"Get Behind The Mule\" live at the Hurley music studio.",
+    "referenceId": null,
+    "date_created": "1398292498",
+    "date_modified": "1418181332",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158634",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "MADE-J-IN-STUDIO",
+    "category": null,
+    "duration": 214,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "SZTASXrJpr4",
+        "hookText": "Watch Made J perform \"Get Behind The Mule\" live at the Hurley music studio.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/SZTASXrJpr4\/hqdefault.jpg",
+        "mediaDuration": "214",
+        "hdvFlag": 0,
+        "uploadDate": 1318400720,
+        "prettyDuration": "03:34"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "19",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 195.01224
+}

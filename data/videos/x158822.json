@@ -1,0 +1,40 @@
+{
+    "title": "PHANTOM TRUE PERFORMANCE AWARD: TAYLOR KNOX",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292517",
+    "date_modified": "1418181334",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158822",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "PHANTOM-TRUE-PERFORMANCE-AWARD-TAYLOR-KNOX",
+    "category": null,
+    "duration": 5,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "9k8A3RAWWhA",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/9k8A3RAWWhA\/hqdefault.jpg",
+        "mediaDuration": "5",
+        "hdvFlag": 0,
+        "uploadDate": 1284695748,
+        "prettyDuration": "00:05"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 167.70026
+}

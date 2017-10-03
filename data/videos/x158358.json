@@ -1,0 +1,42 @@
+{
+    "title": "JOHN JOHN FLORENCE: NORTH SHORE FUELED",
+    "description": "See more at http:\/\/www.hurley.com\/phantom.",
+    "referenceId": null,
+    "date_created": "1398292470",
+    "date_modified": "1418181329",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158358",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "JOHN-JOHN-FLORENCE-NORTH-SHORE-FUELED",
+    "category": null,
+    "duration": 47,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "5GSLJDiaBWI",
+        "hookText": "See more at http:\/\/www.hurley.com\/phantom.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/5GSLJDiaBWI\/maxresdefault.jpg",
+        "mediaDuration": "47",
+        "hdvFlag": 1,
+        "uploadDate": 1385912677,
+        "prettyDuration": "00:47"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "16",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 146.4092
+}

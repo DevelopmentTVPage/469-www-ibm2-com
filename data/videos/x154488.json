@@ -1,0 +1,42 @@
+{
+    "title": "Example is all in - adidas 2011",
+    "description": "ARE YOU IN? WERE YOU IN? Whether it was a day in the studio with Plan B, a secret gig with the enemy, DJing with Caspa or getting Example round to your place...",
+    "referenceId": null,
+    "date_created": "1398106911",
+    "date_modified": "1418181304",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "154488",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Example-is-all-in-adidas-2011",
+    "category": null,
+    "duration": 96,
+    "settings": [],
+    "asset": {
+        "author": "adidas",
+        "videoId": "tB88nzfaZx4",
+        "hookText": "ARE YOU IN? WERE YOU IN? Whether it was a day in the studio with Plan B, a secret gig with the enemy, DJing with Caspa or getting Example round to your place...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/tB88nzfaZx4\/hqdefault.jpg",
+        "mediaDuration": "96",
+        "hdvFlag": 0,
+        "uploadDate": 1304024249,
+        "prettyDuration": "01:36"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16",
+        "20",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 640.15424
+}

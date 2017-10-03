@@ -1,0 +1,40 @@
+{
+    "title": "Tesla Motors Supercharger Event",
+    "description": "Elon Musk introduces the Tesla Supercharger and the first part of a national network which will allow the Model S electric car to travel long distances with ...",
+    "referenceId": null,
+    "date_created": "1370057155",
+    "date_modified": "1418180957",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "53586",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Tesla-Motors-Supercharger-Event",
+    "category": null,
+    "duration": 620,
+    "settings": [],
+    "asset": {
+        "author": "TeslaMotors",
+        "videoId": "wgk5-eB9oTY",
+        "hookText": "Elon Musk introduces the Tesla Supercharger and the first part of a national network which will allow the Model S electric car to travel long distances with ...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/wgk5-eB9oTY\/mqdefault.jpg",
+        "mediaDuration": "620",
+        "hdvFlag": 1,
+        "uploadDate": 1348567136,
+        "prettyDuration": "10:20"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 440.0574
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Facebook Q&A",
+    "description": "Michael answers his Facebook fans' questions in an exclusive, intimate video.",
+    "referenceId": null,
+    "date_created": "1385969235",
+    "date_modified": "1418181125",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135225",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Facebook-Q-A",
+    "category": null,
+    "duration": 206,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "i4qktJDIdiE",
+        "hookText": "Michael answers his Facebook fans' questions in an exclusive, intimate video.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/i4qktJDIdiE\/maxresdefault.jpg",
+        "mediaDuration": "206",
+        "hdvFlag": 1,
+        "uploadDate": 1280951947,
+        "prettyDuration": "03:26"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 211.4414
+}

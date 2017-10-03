@@ -1,0 +1,40 @@
+{
+    "title": "Tilly's Parkour Video",
+    "description": "Tilly's makes their first Parkour video.... It's got some SUPER SWEET Parkour moves and some fist pumps to go with... CHECK IT!!!!!",
+    "referenceId": null,
+    "date_created": "1397072639",
+    "date_modified": "1418181275",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "152061",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Tilly-s-Parkour-Video",
+    "category": null,
+    "duration": 104,
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "videoId": "-bt-YeOIAQM",
+        "hookText": "Tilly's makes their first Parkour video.... It's got some SUPER SWEET Parkour moves and some fist pumps to go with... CHECK IT!!!!!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/-bt-YeOIAQM\/maxresdefault.jpg",
+        "mediaDuration": "104",
+        "hdvFlag": 1,
+        "uploadDate": 1271485803,
+        "prettyDuration": "01:44"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 352.14175
+}

@@ -1,0 +1,41 @@
+{
+    "title": "PHANTOM FUSE",
+    "description": "The next generation of Phantom is here. Meet Phantom Fuse at Hurley.com.",
+    "referenceId": null,
+    "date_created": "1398292487",
+    "date_modified": "1418181331",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158528",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "PHANTOM-FUSE",
+    "category": null,
+    "duration": 33,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "yYFKznqJ5yk",
+        "hookText": "The next generation of Phantom is here. Meet Phantom Fuse at Hurley.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/yYFKznqJ5yk\/maxresdefault.jpg",
+        "mediaDuration": "33",
+        "hdvFlag": 1,
+        "uploadDate": 1341967822,
+        "prettyDuration": "00:33"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 214.13304
+}

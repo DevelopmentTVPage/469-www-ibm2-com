@@ -1,0 +1,40 @@
+{
+    "title": "Welcome to Fall!",
+    "description": "Fall Fashion is officially here! Michael welcomes fans \"back to school\" with a special message!",
+    "referenceId": null,
+    "date_created": "1385969231",
+    "date_modified": "1418181125",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135221",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Welcome-to-Fall",
+    "category": null,
+    "duration": 33,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "o9w5hJQRFDA",
+        "hookText": "Fall Fashion is officially here! Michael welcomes fans \"back to school\" with a special message!",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/o9w5hJQRFDA\/maxresdefault.jpg",
+        "mediaDuration": "33",
+        "hdvFlag": 1,
+        "uploadDate": 1283900187,
+        "prettyDuration": "00:33"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 354.23016
+}

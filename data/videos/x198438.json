@@ -1,0 +1,40 @@
+{
+    "title": "Morning Meeting: 03.24.14",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1408046565",
+    "date_modified": "1418181881",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198438",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Morning-Meeting-03-24-14",
+    "category": null,
+    "duration": 305,
+    "settings": [],
+    "asset": {
+        "author": "TheBlaze",
+        "videoId": "B20qosBhF4I",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/B20qosBhF4I\/maxresdefault.jpg",
+        "mediaDuration": "305",
+        "hdvFlag": 1,
+        "uploadDate": 1395720198,
+        "prettyDuration": "05:05"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 13.604996
+}

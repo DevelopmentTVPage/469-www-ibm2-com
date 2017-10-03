@@ -1,0 +1,42 @@
+{
+    "title": "Pre-Fall 2012",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1385969227",
+    "date_modified": "1418181124",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135187",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Pre-Fall-2012",
+    "category": null,
+    "duration": 38,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "enBclOOZf84",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/enBclOOZf84\/maxresdefault.jpg",
+        "mediaDuration": "38",
+        "hdvFlag": 1,
+        "uploadDate": 1327890498,
+        "prettyDuration": "00:38"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "25",
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9.913082
+}

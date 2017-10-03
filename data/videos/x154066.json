@@ -1,0 +1,41 @@
+{
+    "title": "Mindless Behavior - Hello",
+    "description": "Music video by Mindless Behavior performing Hello. (C) 2012 Streamline\/Interscope.",
+    "referenceId": null,
+    "date_created": "1398105641",
+    "date_modified": "1418181299",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "154066",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Mindless-Behavior-Hello",
+    "category": null,
+    "duration": 475,
+    "settings": [],
+    "asset": {
+        "author": "MindlessBehaviorVEVO",
+        "hdvFlag": 1,
+        "hookText": "Music video by Mindless Behavior performing Hello. (C) 2012 Streamline\/Interscope.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/6Br9OWh2r-E\/sddefault.jpg",
+        "uploadDate": 1331193607,
+        "videoId": "6Br9OWh2r-E",
+        "mediaDuration": "475",
+        "prettyDuration": "07:55"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 136.57117
+}

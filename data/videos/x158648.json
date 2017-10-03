@@ -1,0 +1,40 @@
+{
+    "title": "FACE TIME WITH JOEL CENTEIO",
+    "description": "This is our friend, Joel. He's from Haleiwa, Hawaii... Get to know him.",
+    "referenceId": null,
+    "date_created": "1398292499",
+    "date_modified": "1418181332",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158648",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "FACE-TIME-WITH-JOEL-CENTEIO",
+    "category": null,
+    "duration": 45,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "8c_ECNO1BqU",
+        "hookText": "This is our friend, Joel. He's from Haleiwa, Hawaii... Get to know him.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/8c_ECNO1BqU\/maxresdefault.jpg",
+        "mediaDuration": "45",
+        "hdvFlag": 1,
+        "uploadDate": 1317436460,
+        "prettyDuration": "00:45"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 292.13025
+}

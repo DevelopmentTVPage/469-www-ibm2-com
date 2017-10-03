@@ -1,0 +1,42 @@
+{
+    "title": "Wave Chasers  \/\/ Part 2",
+    "description": "WaveHunter 2.",
+    "referenceId": null,
+    "date_created": "1408468639",
+    "date_modified": "1418181886",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198804",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Wave-Chasers-Part-2",
+    "category": null,
+    "duration": 474,
+    "settings": [],
+    "asset": {
+        "author": "cwpsports",
+        "videoId": "uUHx2yNJBJk",
+        "hookText": "WaveHunter 2.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/uUHx2yNJBJk\/sddefault.jpg",
+        "mediaDuration": "474",
+        "hdvFlag": 0,
+        "uploadDate": 1320299259,
+        "prettyDuration": "07:54"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "35",
+        "32",
+        "33"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 165.92494
+}

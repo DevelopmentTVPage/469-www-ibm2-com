@@ -1,0 +1,41 @@
+{
+    "title": "Changing Skin, Changes Lives",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1399581812",
+    "date_modified": "1418181407",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "165818",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Changing-Skin-Changes-Lives",
+    "category": null,
+    "duration": 171,
+    "settings": [],
+    "asset": {
+        "author": "Kate Somerville",
+        "videoId": "4D02LGXPaMg",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/4D02LGXPaMg\/maxresdefault.jpg",
+        "mediaDuration": "171",
+        "hdvFlag": 1,
+        "uploadDate": 1331788950,
+        "prettyDuration": "02:51"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 21.82412
+}

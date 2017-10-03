@@ -1,0 +1,41 @@
+{
+    "title": "Extra Credits Announces New Shows!",
+    "description": "We're launching new shows on the Extra Credits channel! Subscribe or join us on Facebook and Twitter for more updates. The first show (\"James Recommends\") ha...",
+    "referenceId": null,
+    "date_created": "1406055183",
+    "date_modified": "1418181771",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "191620",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Extra-Credits-Announces-New-Shows",
+    "category": null,
+    "duration": 46,
+    "settings": [],
+    "asset": {
+        "author": "Extra Credits",
+        "videoId": "WnfdcZ94RmI",
+        "hookText": "We're launching new shows on the Extra Credits channel! Subscribe or join us on Facebook and Twitter for more updates. The first show (\"James Recommends\") ha...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/WnfdcZ94RmI\/maxresdefault.jpg",
+        "mediaDuration": "46",
+        "hdvFlag": 1,
+        "uploadDate": 1395360004,
+        "prettyDuration": "00:46"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "32"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 412.86523
+}

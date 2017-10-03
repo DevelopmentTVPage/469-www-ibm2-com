@@ -1,0 +1,42 @@
+{
+    "title": "Hot Topic Presents: Guilty Pleasures",
+    "description": "We asked some of your favorite bands about their musical guilty pleasures. Click play to find out the artists you might be surprised to find on their iPod. F...",
+    "referenceId": null,
+    "date_created": "1410547743",
+    "date_modified": "1418181985",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "3764831",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Hot-Topic-Presents-Guilty-Pleasures",
+    "category": null,
+    "duration": 254,
+    "settings": [],
+    "asset": {
+        "author": "hottopic",
+        "hdvFlag": 1,
+        "hookText": "We asked some of your favorite bands about their musical guilty pleasures. Click play to find out the artists you might be surprised to find on their iPod. F...",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/71wzH_tas9g\/sddefault.jpg",
+        "uploadDate": 1387745299,
+        "videoId": "71wzH_tas9g",
+        "mediaDuration": "254",
+        "prettyDuration": "04:14"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 605.6334
+}

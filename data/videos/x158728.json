@@ -1,0 +1,41 @@
+{
+    "title": "WAVE OF THE WEEK: ACE BUCHAN",
+    "description": "Ace makes it a double in Bali. Video Tom Aiello.",
+    "referenceId": null,
+    "date_created": "1398292507",
+    "date_modified": "1418181333",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158728",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "WAVE-OF-THE-WEEK-ACE-BUCHAN",
+    "category": null,
+    "duration": 31,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "HK0LlXEnRAI",
+        "hookText": "Ace makes it a double in Bali. Video Tom Aiello.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/HK0LlXEnRAI\/maxresdefault.jpg",
+        "mediaDuration": "31",
+        "hdvFlag": 1,
+        "uploadDate": 1297931486,
+        "prettyDuration": "00:31"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 334.8834
+}

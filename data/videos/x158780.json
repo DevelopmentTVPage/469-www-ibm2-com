@@ -1,0 +1,41 @@
+{
+    "title": "JASON VANZANT: FUN TIMES IN POMONA",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398292513",
+    "date_modified": "1418181334",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158780",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "JASON-VANZANT-FUN-TIMES-IN-POMONA",
+    "category": null,
+    "duration": 91,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "GRx7iyyJCJc",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/GRx7iyyJCJc\/hqdefault.jpg",
+        "mediaDuration": "91",
+        "hdvFlag": 0,
+        "uploadDate": 1287102497,
+        "prettyDuration": "01:31"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "31"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 17.63493
+}

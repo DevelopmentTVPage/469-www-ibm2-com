@@ -1,0 +1,41 @@
+{
+    "title": "HURLEY PRO VIDEO TRIALS",
+    "description": "Who will win the final Hurley Pro wildcard spot? You decide: vote in the first-ever Hurley Pro video trials at http:\/\/thehurleypro.com. Round 1 match ups: Da...",
+    "referenceId": null,
+    "date_created": "1398292476",
+    "date_modified": "1418181329",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158414",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "HURLEY-PRO-VIDEO-TRIALS",
+    "category": null,
+    "duration": 39,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "h3LoX_yPW4o",
+        "hookText": "Who will win the final Hurley Pro wildcard spot? You decide: vote in the first-ever Hurley Pro video trials at http:\/\/thehurleypro.com. Round 1 match ups: Da...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/h3LoX_yPW4o\/maxresdefault.jpg",
+        "mediaDuration": "39",
+        "hdvFlag": 1,
+        "uploadDate": 1375139003,
+        "prettyDuration": "00:39"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 5229.358
+}

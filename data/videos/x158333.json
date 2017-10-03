@@ -1,0 +1,41 @@
+{
+    "title": "Tiken Jah Fakoly - Promesse Bla Bla",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1398291993",
+    "date_modified": "1418181328",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158333",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Tiken-Jah-Fakoly-Promesse-Bla-Bla",
+    "category": null,
+    "duration": 286,
+    "settings": [],
+    "asset": {
+        "author": "elpeladodelafe",
+        "hdvFlag": 0,
+        "hookText": "",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/NnHu53_8CKA\/hqdefault.jpg",
+        "uploadDate": 1292223892,
+        "videoId": "NnHu53_8CKA",
+        "mediaDuration": "286",
+        "prettyDuration": "04:46"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 9.571057
+}

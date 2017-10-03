@@ -1,0 +1,42 @@
+{
+    "title": "Glenn Beck Radio Program 2014 Show Open",
+    "description": "Watch full episodes of the Glenn Beck Radio Program on demand with a subscription to TheBlaze TV: http:\/\/www.theblaze.com\/shows\/the-glenn-beck-radio-program\/...",
+    "referenceId": null,
+    "date_created": "1408046572",
+    "date_modified": "1418181882",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198504",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Glenn-Beck-Radio-Program-2014-Show-Open",
+    "category": null,
+    "duration": 59,
+    "settings": [],
+    "asset": {
+        "author": "TheBlaze",
+        "videoId": "YDrPhHtcvq8",
+        "hookText": "Watch full episodes of the Glenn Beck Radio Program on demand with a subscription to TheBlaze TV: http:\/\/www.theblaze.com\/shows\/the-glenn-beck-radio-program\/...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/YDrPhHtcvq8\/maxresdefault.jpg",
+        "mediaDuration": "59",
+        "hdvFlag": 1,
+        "uploadDate": 1393904817,
+        "prettyDuration": "00:59"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "25",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 272.67896
+}

@@ -1,0 +1,42 @@
+{
+    "title": "Teen Vogue Fashion Show",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1385969230",
+    "date_modified": "1418181124",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135208",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Teen-Vogue-Fashion-Show",
+    "category": null,
+    "duration": 398,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "CFFRui5CXyE",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/CFFRui5CXyE\/hqdefault.jpg",
+        "mediaDuration": "398",
+        "hdvFlag": 0,
+        "uploadDate": 1289902993,
+        "prettyDuration": "06:38"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9",
+        "28",
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 8.739685
+}

@@ -1,0 +1,40 @@
+{
+    "title": "WE BARBARIANS IN STUDIO: CHAMBRAY",
+    "description": "We Barbarians stop by the Hurley Studio for a recording session.",
+    "referenceId": null,
+    "date_created": "1398292519",
+    "date_modified": "1418181335",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158837",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "WE-BARBARIANS-IN-STUDIO-CHAMBRAY",
+    "category": null,
+    "duration": 268,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "uOiqsuxWj9Y",
+        "hookText": "We Barbarians stop by the Hurley Studio for a recording session.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/uOiqsuxWj9Y\/maxresdefault.jpg",
+        "mediaDuration": "268",
+        "hdvFlag": 0,
+        "uploadDate": 1320453012,
+        "prettyDuration": "04:28"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 142.24348
+}

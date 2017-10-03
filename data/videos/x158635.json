@@ -1,0 +1,42 @@
+{
+    "title": "MADE J IN STUDIO",
+    "description": "Watch Made J perform \"Lonesome Road\" live at the Hurley music studio.",
+    "referenceId": null,
+    "date_created": "1398292498",
+    "date_modified": "1418181332",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158635",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "MADE-J-IN-STUDIO",
+    "category": null,
+    "duration": 209,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "NrXHwJGT1pU",
+        "hookText": "Watch Made J perform \"Lonesome Road\" live at the Hurley music studio.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/NrXHwJGT1pU\/hqdefault.jpg",
+        "mediaDuration": "209",
+        "hdvFlag": 0,
+        "uploadDate": 1318400612,
+        "prettyDuration": "03:29"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "19",
+        "34",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 149.77286
+}

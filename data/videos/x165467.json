@@ -1,0 +1,40 @@
+{
+    "title": "Vega Sport Video",
+    "description": "The first, complete, all natural, plant-based sport performance system.",
+    "referenceId": null,
+    "date_created": "1399316154",
+    "date_modified": "1418181403",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "165467",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Vega-Sport-Video",
+    "category": null,
+    "duration": 217,
+    "settings": [],
+    "asset": {
+        "author": "Vega",
+        "videoId": "jDHszuOczz0",
+        "hookText": "The first, complete, all natural, plant-based sport performance system.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/jDHszuOczz0\/maxresdefault.jpg",
+        "mediaDuration": "217",
+        "hdvFlag": 1,
+        "uploadDate": 1379987272,
+        "prettyDuration": "03:37"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 250.23018
+}

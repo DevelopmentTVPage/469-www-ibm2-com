@@ -1,0 +1,41 @@
+{
+    "title": "adidas 31 - Dwight Howard",
+    "description": "http:\/\/www.youtube.com\/adidas",
+    "referenceId": null,
+    "date_created": "1396646930",
+    "date_modified": "1418181268",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "151613",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "adidas-31-Dwight-Howard",
+    "category": null,
+    "duration": 5,
+    "settings": [],
+    "asset": {
+        "author": "adidas",
+        "videoId": "uEvtyYvh0UU",
+        "hookText": "http:\/\/www.youtube.com\/adidas",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/uEvtyYvh0UU\/maxresdefault.jpg",
+        "mediaDuration": "5",
+        "hdvFlag": 1,
+        "uploadDate": 1299750793,
+        "prettyDuration": "00:05"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "7",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 66.45388
+}

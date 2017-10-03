@@ -1,0 +1,41 @@
+{
+    "title": "PRISM BREAK",
+    "description": "James 'Dalek' Marshall unveils his latest masterpiece.",
+    "referenceId": null,
+    "date_created": "1398292500",
+    "date_modified": "1418181332",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158654",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "PRISM-BREAK",
+    "category": null,
+    "duration": 98,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "2yaADucma3w",
+        "hookText": "James 'Dalek' Marshall unveils his latest masterpiece.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/2yaADucma3w\/sddefault.jpg",
+        "mediaDuration": "98",
+        "hdvFlag": 0,
+        "uploadDate": 1313567695,
+        "prettyDuration": "01:38"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 93.72485
+}

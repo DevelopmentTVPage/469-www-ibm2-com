@@ -1,0 +1,41 @@
+{
+    "title": "Model S Customer Delivery Event",
+    "description": "Tesla Motors' Model S, the first car to be built from the ground up as a premium electric sedan, was delivered to its first customers at a special event at t...",
+    "referenceId": null,
+    "date_created": "1370057155",
+    "date_modified": "1418180958",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "53589",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Model-S-Customer-Delivery-Event",
+    "category": null,
+    "duration": 1558,
+    "settings": [],
+    "asset": {
+        "author": "TeslaMotors",
+        "videoId": "SLio4A13Ric",
+        "hookText": "Tesla Motors' Model S, the first car to be built from the ground up as a premium electric sedan, was delivered to its first customers at a special event at t...",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/SLio4A13Ric\/mqdefault.jpg",
+        "mediaDuration": "1558",
+        "hdvFlag": 1,
+        "uploadDate": 1343766929,
+        "prettyDuration": "25:58"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "25",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 664.1374
+}

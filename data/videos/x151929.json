@@ -1,0 +1,42 @@
+{
+    "title": "Volcom Girls at Tilly's",
+    "description": "Spend your Summer dressed in Volcom. Get everything Volcom now at Tillys.com.",
+    "referenceId": null,
+    "date_created": "1397072626",
+    "date_modified": "1418181273",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "151929",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Volcom-Girls-at-Tilly-s",
+    "category": null,
+    "duration": 920,
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "videoId": "USUYF9aCUUA",
+        "hookText": "Spend your Summer dressed in Volcom. Get everything Volcom now at Tillys.com.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/USUYF9aCUUA\/maxresdefault.jpg",
+        "mediaDuration": "920",
+        "hdvFlag": 1,
+        "uploadDate": 1363997274,
+        "prettyDuration": "15:20"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9",
+        "28",
+        "31"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 145.26604
+}

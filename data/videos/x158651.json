@@ -1,0 +1,42 @@
+{
+    "title": "FACE TIME WITH ROSIE",
+    "description": "This is Rosie. Go on a walk with her (it's cool, trust us).",
+    "referenceId": null,
+    "date_created": "1398292500",
+    "date_modified": "1418181332",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158651",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "FACE-TIME-WITH-ROSIE",
+    "category": null,
+    "duration": 42,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "mRFXPpFBi2s",
+        "hookText": "This is Rosie. Go on a walk with her (it's cool, trust us).",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/mRFXPpFBi2s\/maxresdefault.jpg",
+        "mediaDuration": "42",
+        "hdvFlag": 1,
+        "uploadDate": 1317434997,
+        "prettyDuration": "00:42"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "16",
+        "18",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 232.38171
+}

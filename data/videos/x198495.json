@@ -1,0 +1,41 @@
+{
+    "title": "For The Record: Who's Watching Washington",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1408046571",
+    "date_modified": "1418181882",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198495",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "For-The-Record-Who-s-Watching-Washington",
+    "category": null,
+    "duration": 156,
+    "settings": [],
+    "asset": {
+        "author": "TheBlaze",
+        "videoId": "s2u1avr0uNc",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/s2u1avr0uNc\/maxresdefault.jpg",
+        "mediaDuration": "156",
+        "hdvFlag": 1,
+        "uploadDate": 1394075410,
+        "prettyDuration": "02:36"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "8",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 278.23676
+}

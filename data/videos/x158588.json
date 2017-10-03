@@ -1,0 +1,40 @@
+{
+    "title": "FIN OPENING",
+    "description": "Last night's film premiere at Hurley )( Space. Video: YB.",
+    "referenceId": null,
+    "date_created": "1398292493",
+    "date_modified": "1418181331",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "158588",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "FIN-OPENING",
+    "category": null,
+    "duration": 105,
+    "settings": [],
+    "asset": {
+        "author": "Hurley",
+        "videoId": "f-PNtcKSy54",
+        "hookText": "Last night's film premiere at Hurley )( Space. Video: YB.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/f-PNtcKSy54\/maxresdefault.jpg",
+        "mediaDuration": "105",
+        "hdvFlag": 1,
+        "uploadDate": 1328861685,
+        "prettyDuration": "01:45"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 109.47648
+}

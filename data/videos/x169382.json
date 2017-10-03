@@ -1,0 +1,41 @@
+{
+    "title": "BlaBla - Ludovik",
+    "description": "Quand deux fr\u00e8res sont confront\u00e9s \u00e0 la m\u00eame maladie. Abonne-toi \u00e0 ma chaine pour voir toutes mes vid\u00e9os http:\/\/www.youtube.com\/Ludovik.",
+    "referenceId": null,
+    "date_created": "1401304347",
+    "date_modified": "1418181448",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "169382",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "BlaBla-Ludovik",
+    "category": null,
+    "duration": 226,
+    "settings": [],
+    "asset": {
+        "author": "ludovik",
+        "hdvFlag": 1,
+        "hookText": "Quand deux fr\u00e8res sont confront\u00e9s \u00e0 la m\u00eame maladie. Abonne-toi \u00e0 ma chaine pour voir toutes mes vid\u00e9os http:\/\/www.youtube.com\/Ludovik.",
+        "tags": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/4H5Q0T90Qi4\/sddefault.jpg",
+        "uploadDate": 1398441700,
+        "videoId": "4H5Q0T90Qi4",
+        "mediaDuration": "226",
+        "prettyDuration": "03:46"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 158.21388
+}

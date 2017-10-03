@@ -1,0 +1,40 @@
+{
+    "title": "Tilly's Fairy man",
+    "description": "A guy running around acting like a fairy.",
+    "referenceId": null,
+    "date_created": "1397072638",
+    "date_modified": "1418181275",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "152046",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Tilly-s-Fairy-man",
+    "category": null,
+    "duration": 12,
+    "settings": [],
+    "asset": {
+        "author": "tillys",
+        "videoId": "f8vntxjyaSs",
+        "hookText": "A guy running around acting like a fairy.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/f8vntxjyaSs\/hqdefault.jpg",
+        "mediaDuration": "12",
+        "hdvFlag": 0,
+        "uploadDate": 1272085878,
+        "prettyDuration": "00:12"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "20"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 154.09029
+}

@@ -1,0 +1,42 @@
+{
+    "title": "The Jeff Fisher Show is coming to TheBlaze Radio",
+    "description": "The Jeff Fisher Show launches Saturday 8\/2 from 6-8amET on http:\/\/TheBlaze.com\/Radio. Here, he shows the luxurious location he'll be broadcasting from.",
+    "referenceId": null,
+    "date_created": "1408046534",
+    "date_modified": "1418181876",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198095",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "The-Jeff-Fisher-Show-is-coming-to-TheBlaze-Radio",
+    "category": null,
+    "duration": 67,
+    "settings": [],
+    "asset": {
+        "author": "TheBlaze",
+        "videoId": "pqjeVoaklnA",
+        "hookText": "The Jeff Fisher Show launches Saturday 8\/2 from 6-8amET on http:\/\/TheBlaze.com\/Radio. Here, he shows the luxurious location he'll be broadcasting from.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/pqjeVoaklnA\/maxresdefault.jpg",
+        "mediaDuration": "67",
+        "hdvFlag": 1,
+        "uploadDate": 1406927887,
+        "prettyDuration": "01:07"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14",
+        "25",
+        "32"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 379.4688
+}

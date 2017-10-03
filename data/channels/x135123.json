@@ -1,0 +1,24 @@
+{
+    "title": "MICHAEL KORS TV",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1385874656",
+    "date_modified": "1392411215",
+    "tags": "",
+    "sourceId": null,
+    "status": "approved",
+    "visibility": "1",
+    "id": "135123",
+    "loginId": "3",
+    "entityType": "3",
+    "titleTextEncoded": "MICHAEL-KORS-TV",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "426125854-0.jpg",
+        "colorClass": "light",
+        "canvasType": "cropped",
+        "canvasCropped": "426125854-001200673.jpg"
+    },
+    "transcripts": null
+}

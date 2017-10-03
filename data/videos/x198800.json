@@ -1,0 +1,41 @@
+{
+    "title": "Chuck's Winter Alaska Adventure",
+    "description": "Trip of a life time, Heli skiing and snowboarding the Tordrillo Mountains in Alaska and staying at the Tordrillo Mountain Lodge. Epic conditions.",
+    "referenceId": null,
+    "date_created": "1408468639",
+    "date_modified": "1418181886",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198800",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Chuck-s-Winter-Alaska-Adventure",
+    "category": null,
+    "duration": 161,
+    "settings": [],
+    "asset": {
+        "author": "cwpsports",
+        "videoId": "BQ6RPI1eE6w",
+        "hookText": "Trip of a life time, Heli skiing and snowboarding the Tordrillo Mountains in Alaska and staying at the Tordrillo Mountain Lodge. Epic conditions.",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/BQ6RPI1eE6w\/maxresdefault.jpg",
+        "mediaDuration": "161",
+        "hdvFlag": 1,
+        "uploadDate": 1332052064,
+        "prettyDuration": "02:41"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "9",
+        "7"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 265.7082
+}

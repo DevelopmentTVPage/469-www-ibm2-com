@@ -1,0 +1,40 @@
+{
+    "title": "Vogue Deutsch - A Moment with Michael and Heidi",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1385969226",
+    "date_modified": "1418181124",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "id": "135183",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "Vogue-Deutsch-A-Moment-with-Michael-and-Heidi",
+    "category": null,
+    "duration": 109,
+    "settings": [],
+    "asset": {
+        "author": "Michael Kors",
+        "videoId": "SFmBmoRaxq4",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/SFmBmoRaxq4\/sddefault.jpg",
+        "mediaDuration": "109",
+        "hdvFlag": 0,
+        "uploadDate": 1332463295,
+        "prettyDuration": "01:49"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 283.0261
+}

@@ -1,0 +1,40 @@
+{
+    "title": "The Morning Meeting 4.30.14",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1408046552",
+    "date_modified": "1418181879",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "id": "198299",
+    "loginId": "3",
+    "entityType": "1",
+    "titleTextEncoded": "The-Morning-Meeting-4-30-14",
+    "category": null,
+    "duration": 949,
+    "settings": [],
+    "asset": {
+        "author": "TheBlaze",
+        "videoId": "-SC4rt8QcbI",
+        "hookText": "",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/-SC4rt8QcbI\/maxresdefault.jpg",
+        "mediaDuration": "949",
+        "hdvFlag": 1,
+        "uploadDate": 1398983716,
+        "prettyDuration": "15:49"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 198.36684
+}
